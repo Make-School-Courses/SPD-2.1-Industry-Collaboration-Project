@@ -63,25 +63,23 @@ To pass this course you must meet the following requirements:
 
 # Lessons
 
-13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
-
-## 
+Class sessions may varry depending on team project.
 
 
-- Mon, Aug 27	- Ideation & User Interviewing
-- Wed, Aug 29	- Ideation & User Interviewing
-- Mon, Sep 3	Letter of Engagement
-- Wed, Sep 5	Letter of Engagement Editing
-- Mon, Sep 10	Wireframing & User Narratives & ERD
-- Wed, Sep 12	Wireframing & User Narratives & ERD
-- Mon, Sep 17	Sprint 1 Planning
-- Wed, Sep 19	Sprint 1
-- Mon, Sep 24	User Testing
-- Wed, Sep 26	Sprint 1 Retrospective, Sprint 2 Planning
-- Mon, Oct 1	Sprint 2
-- Wed, Oct 3	User Testing
-- Mon, Oct 8	No Classes (Indigenous Peoples’ Day)
-- Wed, Oct 10	Sprint 3
+- Tue, Aug 28	- Ideation & User Interviewing
+- Thu, Aug 30	- Ideation & User Interviewing
+- Tue, Sep 4	Letter of Engagement
+- Thr, Sep 5	Letter of Engagement Editing
+- Tue, Sep 11	Wireframing & User Narratives & ERD
+- Thr, Sep 13	Wireframing & User Narratives & ERD
+- Tue, Sep 18	Sprint 1 Planning
+- Thr, Sep 20	LAB & Conflict Resolution
+- Tue, Sep 25	Sprint 1 Retrospective, Sprint 2 Planning
+- Thr, Sep 27	LAB & Forwarding Your Ideas
+- Tue, Oct 2	Sprint 2 Retrospective, Sprint 3 Planning
+- Thr, Oct 4	User Testing
+- Tue, Oct 9	No Classes (Indigenous Peoples’ Day)
+- Thr, Oct 11	Sprint 3 Retrospective, Sprint 4 Planning
 
 
 
