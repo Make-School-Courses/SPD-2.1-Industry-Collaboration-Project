@@ -48,17 +48,17 @@ To pass this course you must meet the following requirements:
 
 ## Collaboration Expectations
 
-- **[Student Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.yri3le8rfq5y)** - [flyer](https://docs.google.com/document/d/1VJX5-UYzjTA42pAw1rP4VXVYnMnGOj7BGd2A4ufGeKY/edit) to gauge interest from prospective industry collaborators.
-- **[Participating Organization Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.mg9scq4lebzc)** - 
-- **[Expectations for Instructors](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.8ve0deyw0r2j)** - 
+- **[Student Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.yri3le8rfq5y)** - see this flyer [flyer](https://docs.google.com/document/d/1VJX5-UYzjTA42pAw1rP4VXVYnMnGOj7BGd2A4ufGeKY/edit) to gauge interest from prospective industry collaborators.
+- **[Participating Organization Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.mg9scq4lebzc)** 
+- **[Expectations for Instructors](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.8ve0deyw0r2j)** 
 
 ## Resources
 
-- User Interviews - 
-- Wireframe best practices
+- User Interviews - user interviews help you understand and validate user needs. Here are user interview [best practices](https://docs.google.com/presentation/d/1xtUGbErF315eKkvVAstTnWzoXLmpygtf6YGTEMYwg_A/edit#slide=id.p) and a [template script](https://docs.google.com/document/d/1uRRKejC3Ullk5vdw9P1SHmE56CGkekH2dIaoBV9ISeM/edit)
+- Wireframe best practices - wireframes are light weight mock ups developers use to prototype designs. See [class slides](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit#slide=id.g3e71f5355a_0_26) here.
 - Sprint Planning Meetings - **[Meeting Agenda Template](docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit)**. Led by the PM. Team checks their roadmap and evaluate teams’ needs to decide what goes into the next sprint, and assign tasks. Teams can use [planning poker](https://en.wikipedia.org/wiki/Planning_poker) to estimate task effort. Everything is logged into Trello. You can copy this [Sprint Planning Trello Board template](https://trello.com/b/ftyBKJb3/eng-sprint-board-template).
 - Sprint Retrospective (½ hour, weekly) - **[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)**. Complete the old sprint board by checking all tickets and moving incomplete ones over to the next sprint board. Then estimate the tickets that the PM have moved into the board ahead of meeting. Go over what was completed, what went well not if it didn’t go so well, but double check how everyone felt. Anyone feel overloaded on work? Anything the PM could have done differently? [Sprint Retrospective Trello Board Template](https://trello.com/b/8tEv8Uaj/eng-retro-board-template).
-- Letter of Engagement Templates - 
+- Letter of Engagement Templates - customize [these templates](https://drive.google.com/drive/u/0/folders/1orfy2fxAccRzS1u8AF91bGAgugjT1F3c) to outline the objectives, scope, and timeline for your project/
 
 
 # Lessons
