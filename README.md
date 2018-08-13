@@ -1,4 +1,4 @@
-# SPD-2.1-Industry-Collaboration-Project
+# SPD 2.1 and 2.2 Industry Collaboration Project
 
 ## Course Description
 
@@ -64,7 +64,6 @@ To pass this course you must meet the following requirements:
 # Lessons
 
 Class sessions may varry depending on team project.
-
 
 - Tue, Aug 28	- Ideation & User Interviewing
 - Thu, Aug 30	- Ideation & User Interviewing
