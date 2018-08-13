@@ -55,15 +55,15 @@ To pass this course you must meet the following requirements:
 
 - Mon, Aug 27	- Ideation & User Interviewing
 - Wed, Aug 29	- Ideation & User Interviewing
-Mon, Sep 3	Validation & User Interviewing
-Wed, Sep 5	Wireframing & User Narratives & ERD
-Mon, Sep 10	Wireframing & User Narratives & ERD
-Wed, Sep 12	Wireframing & User Narratives & ERD
-Mon, Sep 17	Sprint 1 Planning
-Wed, Sep 19	Sprint 1
-Mon, Sep 24	User Testing
-Wed, Sep 26	Sprint 1 Retrospective
-Mon, Oct 1	Sprint 2
-Wed, Oct 3	User Testing
-Mon, Oct 8	No Classes (Indigenous Peoples’ Day)
-Wed, Oct 10	Sprint 3
+- Mon, Sep 3	Letter of Engagement
+- Wed, Sep 5	Letter of Engagement Editing
+- Mon, Sep 10	Wireframing & User Narratives & ERD
+- Wed, Sep 12	Wireframing & User Narratives & ERD
+- Mon, Sep 17	Sprint 1 Planning
+- Wed, Sep 19	Sprint 1
+- Mon, Sep 24	User Testing
+- Wed, Sep 26	Sprint 1 Retrospective, Sprint 2 Planning
+- Mon, Oct 1	Sprint 2
+- Wed, Oct 3	User Testing
+- Mon, Oct 8	No Classes (Indigenous Peoples’ Day)
+- Wed, Oct 10	Sprint 3
