@@ -33,6 +33,8 @@ Students by the end of the course will be able to ...
 
 ## Tutorials & Projects
 1. *Letter of Engagement* - Document that outlines the goals, scope, collaboration process and timeline for the company project.
+1. *Wireframes* - user interface mock up for your app
+1. *Mid Project 360* - Peer review process to evalaute your teams strengths, weaknesses and how you'd like to change your work habits for the coming term.
 1. *Product Prototype* - A fully functional prototype of the technical solution (or app that uses the API). Code includes documentation and comments so future developers can easily build on the product. Recommendations for future features and development.
 1. *Final Presentation* - A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2.
 
@@ -81,7 +83,7 @@ Class sessions may varry depending on team project.
 - Thr, Oct 11	Sprint 3 Retrospective, Sprint 4 Planning
 
 ## Huddle Schedule - daily morning group meeting
-Huddle session content is placed in the google calendar event descritions
+Huddle session content is housed in the google calendar event descritions
 
 
 ## Make School Course Policies
