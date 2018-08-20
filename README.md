@@ -63,7 +63,7 @@ To pass this course you must meet the following requirements:
 - **Letter of Engagement Templates** - customize [these templates](https://drive.google.com/drive/u/0/folders/1orfy2fxAccRzS1u8AF91bGAgugjT1F3c) to outline the objectives, scope, and timeline for your project/
 
 
-# Lessons
+# Lessons & Deliverables
 
 Class sessions may varry depending on team project.
 
