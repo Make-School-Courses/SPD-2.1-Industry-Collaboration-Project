@@ -32,9 +32,9 @@ Students by the end of the course will be able to ...
 5. Conduct agile sprints with a team of 5+ engineers (PLO 3).
 
 ## Tutorials & Projects
-- *Letter of Engagement* - Document that outlines the goals, scope, collaboration process and timeline for the company project.
-- *Product Prototype* - A fully functional prototype of the technical solution (or app that uses the API). Code includes documentation and comments so future developers can easily build on the product. Recommendations for future features and development.
-- *Final Presentation* - A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2.
+1. *Letter of Engagement* - Document that outlines the goals, scope, collaboration process and timeline for the company project.
+1. *Product Prototype* - A fully functional prototype of the technical solution (or app that uses the API). Code includes documentation and comments so future developers can easily build on the product. Recommendations for future features and development.
+1. *Final Presentation* - A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2.
 
 ## Evaluation
 
