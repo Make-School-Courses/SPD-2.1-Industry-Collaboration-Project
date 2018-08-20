@@ -72,19 +72,19 @@ Class sessions may varry depending on team project.
 - Tue, Sep 4	Letter of Engagement
 - Thr, Sep 5	Letter of Engagement Editing
 - Tue, Sep 11	Wireframing & User Narratives & ERD
-  - Letter of Engagement Due
+  - _Letter of Engagement Due_
 - Thr, Sep 13	Wireframing & User Narratives & ERD
 - Tue, Sep 18	Sprint 1 Planning
-  - Wireframe Due
+  - _Wireframe Due_
 - Thr, Sep 20	LAB & Conflict Resolution
 - Tue, Sep 25	Sprint 1 Retrospective, Sprint 2 Planning
 - Thr, Sep 27	LAB & Forwarding Your Ideas
 - Tue, Oct 2	Sprint 2 Retrospective, Sprint 3 Planning
-  - MVP draft of product due
+  - _MVP draft of product due_
 - Thr, Oct 4	User Testing & 360 reviews
 - Tue, Oct 9	No Classes (Indigenous Peoples’ Day)
 - Thr, Oct 11	Sprint 3 Retrospective, Sprint 4 Planning
-  - 360 review due
+  - _360 review due_
 
 ## Huddle Schedule - daily morning group meeting
 Huddle session content is housed in the google calendar event descritions
