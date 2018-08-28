@@ -50,7 +50,7 @@ To pass this course you must meet the following requirements:
 
 ## Collaboration Expectations
 
-- **[Student Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.yri3le8rfq5y)** - see this flyer [flyer](https://docs.google.com/document/d/1VJX5-UYzjTA42pAw1rP4VXVYnMnGOj7BGd2A4ufGeKY/edit) to gauge interest from prospective industry collaborators.
+- **[Student Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.yri3le8rfq5y)** - see this [flyer](https://docs.google.com/document/d/1VJX5-UYzjTA42pAw1rP4VXVYnMnGOj7BGd2A4ufGeKY/edit) to gauge interest from prospective industry collaborators.
 - **[Participating Organization Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.mg9scq4lebzc)** 
 - **[Expectations for Instructors](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.8ve0deyw0r2j)** 
 
