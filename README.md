@@ -67,13 +67,13 @@ To pass this course you must meet the following requirements:
 
 Class sessions may varry depending on team project.
 
-- Tue, Aug 28	- Ideation & User Interviewing
-- Thu, Aug 30	- Ideation & User Interviewing
-- Tue, Sep 4	Letter of Engagement
-- Thr, Sep 5	Letter of Engagement Editing
+- Tue, Aug 28	- Ideation & User Interviewing ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_16))
+- Thu, Aug 30	- Team Formation & User Interviewing ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g4156443509_0_9))
+- Tue, Sep 4	Role Best Practices & Team Expectations ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_20))
+- Thr, Sep 5	Collaborating with Partners & Letter of Engagement ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_0))
 - Tue, Sep 11	Wireframing & User Narratives & ERD
-  - __Letter of Engagement Due__
 - Thr, Sep 13	Wireframing & User Narratives & ERD
+  - __Letter of Engagement Due__
 - Tue, Sep 18	Sprint 1 Planning
   - __Wireframe Due__
 - Thr, Sep 20	LAB & Conflict Resolution
