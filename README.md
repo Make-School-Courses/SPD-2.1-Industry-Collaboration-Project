@@ -33,7 +33,9 @@ Students by the end of the course will be able to ...
 
 ## Tutorials & Projects
 1. *Letter of Engagement* - Document that outlines the goals, scope, collaboration process and timeline for the company project.
-1. *Wireframes* - user interface mock up for your app
+1. *Wireframes* - user interface mock up for your app ([rubric](https://docs.google.com/document/d/1uCxdv8N0TltGNS1YLOS8SkD0uLcir0Wg2I9pxS_PL_w/edit#))
+1. *User Narrative* - narrative explaining the actions and thoughts of a new user on your app ([rubric](https://docs.google.com/document/d/1uCxdv8N0TltGNS1YLOS8SkD0uLcir0Wg2I9pxS_PL_w/edit#))
+1. *ERDs* - relationship between different entities of your app ([rubric](https://docs.google.com/document/d/1uCxdv8N0TltGNS1YLOS8SkD0uLcir0Wg2I9pxS_PL_w/edit#))
 1. *Mid Project 360* - Peer review process to evalaute your teams strengths, weaknesses and how you'd like to change your work habits for the coming term.
 1. *Product Prototype* - A fully functional prototype of the technical solution (or app that uses the API). Code includes documentation and comments so future developers can easily build on the product. Recommendations for future features and development.
 1. *Final Presentation* - A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2.
@@ -67,28 +69,27 @@ To pass this course you must meet the following requirements:
 
 Class sessions may varry depending on team project.
 
-- Tue, Aug 28	- Ideation & User Interviewing ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_16))
+- Tue, Aug 28	- Ideation & Research ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_16))
 - Thu, Aug 30	- Team Formation & User Interviewing ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g4156443509_0_9))
 - Tue, Sep 4	Role Best Practices & Team Expectations ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_20))
-- Thr, Sep 5	Collaborating with Partners & Letter of Engagement ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_0))
-- Tue, Sep 11	Wireframing & User Narratives & ERD
-- Thr, Sep 13	Wireframing & User Narratives & ERD
+- Thr, Sep 5	Working with Partners & Letter of Engagement ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_0))
+- Tue, Sep 11	Collaboration Risks & User Interviews ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g426bbcb8ae_0_446))
+- Thr, Sep 13	Lab & Industry Partner Conversations
+- Tue, Sep 18	Lab & Industry Partner Conversations
+- Thr, Sep 20	Sprint 1 Retrospective, Sprint 2 Planning
+- Tue, Sep 25	Wireframing & User Narratives & ERD & Teammate Utilization
   - __Letter of Engagement Due__
-- Tue, Sep 18	Sprint 1 Planning
-  - __Wireframe Due__
-- Thr, Sep 20	LAB & Conflict Resolution
-- Tue, Sep 25	Sprint 1 Retrospective, Sprint 2 Planning
-- Thr, Sep 27	LAB & Forwarding Your Ideas
-- Tue, Oct 2	Sprint 2 Retrospective, Sprint 3 Planning
-  - __MVP draft of product due__
-- Thr, Oct 4	User Testing & 360 reviews
+- Thr, Sep 27	Sprint 2 Retrospective, Sprint 3 Planning ......
+- Tue, Oct 2	360 Reviews & Conflict Resolution
+  - __Wireframe Due, User Narrative, ERD due__
+- Thr, Oct 4	Sprint 3 Retrospective, Sprint 4 Planning    
 - Tue, Oct 9	No Classes (Indigenous Peoples’ Day)
 - Thr, Oct 11	Sprint 3 Retrospective, Sprint 4 Planning
-  - __360 review due__
+- Mon-Fri, Oct 15-19th WEEK LONG INTENSIVE 
+  - __MVP draft of product due Oct 19th__
 
 ## Huddle Schedule - daily morning group meeting
 Huddle session content is housed in the google calendar event descritions
-
 
 ## Make School Course Policies
 
