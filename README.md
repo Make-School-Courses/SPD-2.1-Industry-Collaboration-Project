@@ -32,10 +32,10 @@ Students by the end of the course will be able to ...
 5. Conduct agile sprints with a team of 5+ engineers (PLO 3).
 
 ## Tutorials & Projects
-1. *Letter of Engagement* - Document that outlines the goals, scope, collaboration process and timeline for the company project [templates & submission folder](https://drive.google.com/drive/u/0/folders/1orfy2fxAccRzS1u8AF91bGAgugjT1F3c)
-1. *Wireframes* - user interface mock up for your app (Evaluated in [Portfolio Project Rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit))
-1. *User Narrative* - narrative explaining the actions and thoughts of a new user on your app (Evaluated in [Portfolio Project Rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit))
-1. *Entity Relationship Diagrams "ERDs"* - relationship between different entities of your app (Evaluated in [Portfolio Project Rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit))
+1. *Letter of Engagement* - Document that outlines the goals, scope, collaboration process and timeline for the company project ([templates & submission folder](https://drive.google.com/drive/u/0/folders/1orfy2fxAccRzS1u8AF91bGAgugjT1F3c))
+1. *Wireframes* - user interface mock up for your app (part of [Portfolio Project Rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit))
+1. *User Narrative* - narrative explaining the actions and thoughts of a new user on your app (part of [Portfolio Project Rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit))
+1. *Entity Relationship Diagrams "ERDs"* - relationship between different entities of your app (part of [Portfolio Project Rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit))
 1. *Mid Project 360* - Peer review process to evalaute your teams strengths, weaknesses and how you'd like to change your work habits for the coming term.
 1. *Product Prototype* - A fully functional prototype of the technical solution (or app that uses the API). Code includes documentation and comments so future developers can easily build on the product. Recommendations for future features and development.
 1. *Final Presentation* - A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2.
