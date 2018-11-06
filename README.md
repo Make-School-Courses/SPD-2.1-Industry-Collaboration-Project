@@ -38,7 +38,8 @@ Students by the end of the course will be able to ...
 1. *Entity Relationship Diagrams "ERDs"* - relationship between different entities of your app
 1. *Mid Project 360* - Peer review process to evalaute your teams strengths, weaknesses and how you'd like to change your work habits for the coming term.
 1. *Product Prototype* - A fully functional prototype of the technical solution (or app that uses the API). Code includes documentation and comments so future developers can easily build on the product. Recommendations for future features and development.
-1. *Final Presentation* - A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2.
+  - Grading - Team's project must core between a 2 and 3 on the [Portfolio Project Rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit)
+1. *Final Presentation* - A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2. Here [tips](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0) for presentation slides.
 
 ## Evaluation
 
@@ -69,6 +70,7 @@ To pass this course you must meet the following requirements:
 
 Class sessions may varry depending on team project.
 
+Term 1:
 - Tue, Aug 28	- Ideation & Research ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_16))
 - Thu, Aug 30	- Team Formation & User Interviewing ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g4156443509_0_9))
 - Tue, Sep 4	Role Best Practices & Team Expectations ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_20))
@@ -87,6 +89,7 @@ Class sessions may varry depending on team project.
 - Thr, Oct 11	Sprint 3 Retrospective, Sprint 4 Planning
 - Mon-Fri, Oct 15-19th WEEK LONG INTENSIVE 
   - __MVP draft of product due Oct 19th__
+
 
 ## Huddle Schedule - daily morning group meeting
 Huddle session content is housed in the google calendar event descritions
