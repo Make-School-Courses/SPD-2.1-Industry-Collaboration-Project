@@ -38,7 +38,7 @@ Students by the end of the course will be able to ...
 1. *Entity Relationship Diagrams "ERDs"* - relationship between different entities of your app
 1. *Mid Project 360* - Peer review process to evalaute your teams strengths, weaknesses and how you'd like to change your work habits for the coming term.
 1. *Product Prototype* - A fully functional prototype of the technical solution (or app that uses the API). Code includes documentation and comments so future developers can easily build on the product. Recommendations for future features and development.
-  - Grading - Team's project must core between a 2 and 3 on the [Portfolio Project Rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit)
+    - Grading - Team's project must core between a 2 and 3 on the [Portfolio Project Rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit)
 1. *Final Presentation* - A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2. Here [tips](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0) for presentation slides.
     - __Due December 11th__
 1. *Final Product* - Your team's final product should score an average of 3 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric)
@@ -93,12 +93,12 @@ Term 1:
 - Mon-Fri, Oct 15-19th WEEK LONG INTENSIVE 
   - __MVP draft of product due Oct 19th__
 <br>
-Term 2 <br>
-- Tuesday, October 23 - [Team Performance Evaluation](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g426bbcb8ae_0_487)
+Term 2
+- Tuesday, October 23 - Team Performance Evaluation ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g426bbcb8ae_0_487))
 - Thursday, October 25	- Sprint Retrospective & Planning
-- Tuesday, October 30 - [Teamwork Skills Interviewing & Code Reviews](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g457eb693a7_0_4)
+- Tuesday, October 30 - Teamwork Skills Interviewing & Code Reviews ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g457eb693a7_0_4))
 - Thursday, November 1 - Sprint Retrospective & Planning
-- Tuesday, November 6 - [Product and Investor Pitches](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0)
+- Tuesday, November 6 - Product and Investor Pitches ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0))
 - Thursday, November 8 - Sprint Retrospective & Planning
 - Tuesday, November 13 - Myers Brigss Personality Assessment
 - Thursday, November 15 - Sprint Retrospective & Planning
