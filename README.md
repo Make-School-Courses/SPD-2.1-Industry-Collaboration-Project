@@ -40,6 +40,9 @@ Students by the end of the course will be able to ...
 1. *Product Prototype* - A fully functional prototype of the technical solution (or app that uses the API). Code includes documentation and comments so future developers can easily build on the product. Recommendations for future features and development.
   - Grading - Team's project must core between a 2 and 3 on the [Portfolio Project Rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit)
 1. *Final Presentation* - A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2. Here [tips](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0) for presentation slides.
+    - __Due December 11th__
+1. *Final Product* - Your team's final product should score an average of 3 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric)
+    - __Due December 13th__
 
 ## Evaluation
 
@@ -89,7 +92,25 @@ Term 1:
 - Thr, Oct 11	Sprint 3 Retrospective, Sprint 4 Planning
 - Mon-Fri, Oct 15-19th WEEK LONG INTENSIVE 
   - __MVP draft of product due Oct 19th__
-
+Term 2
+- Tuesday, October 23 - [Team Performance Evaluation](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g426bbcb8ae_0_487)
+- Thursday, October 25	- Sprint Retrospective & Planning
+- Tuesday, October 30 - [Teamwork Skills Interviewing & Code Reviews](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g457eb693a7_0_4)
+- Thursday, November 1 - Sprint Retrospective & Planning
+- Tuesday, November 6 - [Product and Investor Pitches](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0)
+- Thursday, November 8 - Sprint Retrospective & Planning
+- Tuesday, November 13 - Myers Brigss Personality Assessment
+- Thursday, November 15 - Sprint Retrospective & Planning
+- Tuesday, November 20 - Don Rags
+- Thursday, November 22 - Fall Break
+- Tuesday, November 27 - Advanced BASH and Unix Utilities
+- Thursday, November 29 - Sprint Retrospective & Planning
+- Tuesday, December 4 - Practice Pitches & Documentation Review
+- Thursday, December 6 - Sprint Retrospective & Planning
+- Tuesday, December 11 - Final Presentations
+  - __Presentations to Industry Partners__
+- Thursday, December 13 - Documentation Final Peer Review
+  -__Final Product Due__
 
 ## Huddle Schedule - daily morning group meeting
 Huddle session content is housed in the google calendar event descritions
