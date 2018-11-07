@@ -92,7 +92,8 @@ Term 1:
 - Thr, Oct 11	Sprint 3 Retrospective, Sprint 4 Planning
 - Mon-Fri, Oct 15-19th WEEK LONG INTENSIVE 
   - __MVP draft of product due Oct 19th__
-Term 2
+<br>
+Term 2 <br>
 - Tuesday, October 23 - [Team Performance Evaluation](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g426bbcb8ae_0_487)
 - Thursday, October 25	- Sprint Retrospective & Planning
 - Tuesday, October 30 - [Teamwork Skills Interviewing & Code Reviews](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g457eb693a7_0_4)
