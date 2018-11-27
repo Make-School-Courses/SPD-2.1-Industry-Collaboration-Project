@@ -105,7 +105,7 @@ Term 2
 - Thursday, November 15 - Sprint Retrospective & Planning 
 - Tuesday, November 20 - Don Rags 
 - Thursday, November 22 - Fall Break 
-- Tuesday, November 27 - Advanced BASH and Unix Utilities 
+- Tuesday, November 27 - [Advanced Bash and Unix Utilities](https://make.sc/bashsesh)
 - Thursday, November 29 - Sprint Retrospective & Planning 
 - Tuesday, December 4 - Practice Pitches & Documentation Review 
 - Thursday, December 6 - Sprint Retrospective & Planning 
