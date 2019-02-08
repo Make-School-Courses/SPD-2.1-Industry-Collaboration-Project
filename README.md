@@ -75,15 +75,70 @@ Class sessions may varry depending on team project.
 
 Term 1:
 - Tue, Aug 28	- Ideation & Research ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_16))
-    - ddd
-    -   dd
+    - Objectives:
+        - Brainstorm ideas for your senior SPD project using a variety of frameworks
+        - Prioritize the potential of your ideas
+        - Explain the opportunity and challenges of collaborating with an industry partner for your senior SPD project
+    -   Activities:
+        - Brainstorm ideas & partners for your project
+        - Debate the potential for ideas and partnerships with peers
 - Thu, Aug 30	- Team Formation & User Interviewing ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g4156443509_0_9))
-- Tue, Sep 4	Role Best Practices & Team Expectations ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_20))
+    - Objectives:
+        - Persuade peers to include you on their team
+        - Clarify roles and responsibilities with teammates
+        - Plan your team's communication norms
+    -   Activities:
+        - Form teams formation
+        - Set up team communication opperations
+- Tue, Sep 4	- Role Best Practices & Team Expectations ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_20))
+    - Objectives:
+        - Explore dependencies between different teammates and roles
+        - Set expectations for high quality collaboration with teammates, partners, and advisors
+        - Extablish rules and responses for teammates breaking expectations
+    -   Activities:
+        - Discuss dependencies between different teammates and roles
+        - Clarify expectations for high quality collaboration with teammates, partners, and advisors
+        - Extablish rules and responses for teammates breaking expectations
 - Thr, Sep 5	Working with Partners & Letter of Engagement ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_0))
+    - Objectives:
+        - Structure your collaboration with your industry partner: meeting times, sprints, feedback, communication frequency
+        - Conduct agile sprint planning with a team of 5+ engineers
+    -   Activities:
+        - Write a Letter of Engagement outlining your proposed collaboration method with your partner
+        - Begin your first Agile Sprint Planning
 - Tue, Sep 11	Collaboration Risks & User Interviews ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g426bbcb8ae_0_446))
+    - Objectives:
+        - Identify risks for collaborating with your project partner
+        - Create strategies to mitigate risks in collaboration
+        - Identify subjects for interviewees
+        - Design an unbiased user interview
+    -   Activities:
+        - Discuss how to identify and mitigate risks of collaborating with your project partner
+        - Write a user interview script and begin conducting them
 - Thr, Sep 13	Lab & Industry Partner Conversations
+    - Objectives:
+        - Understand the various painpoints and incentives of an industry partner
+        - Communicate technical possibilities to non-tech fluent stakeholders
+        - Agree on a process and timeline of collaboration
+    -   Activities:
+        - Students take pre-scheduled calls or meetings with their industry partner to onboard the project
+        - Continue conducting user interviews and research if team is not taking a call or meeting with the partner
 - Tue, Sep 18	Lab & Industry Partner Conversations
+    - Objectives:
+        - Understand the various painpoints and incentives of an industry partner
+        - Communicate technical possibilities to non-tech fluent stakeholders
+        - Agree on a process and timeline of collaboration
+    -   Activities:
+        - Students take pre-scheduled calls or meetings with their industry partner to onboard the project
+        - Continue conducting user interviews and research if team is not taking a call or meeting with the partner
 - Thr, Sep 20	Sprint 1 Retrospective, Sprint 2 Planning
+    - Objectives:
+        - Understand the various painpoints and incentives of an industry partner
+        - Communicate technical possibilities to non-tech fluent stakeholders
+        - Agree on a process and timeline of collaboration
+    -   Activities:
+        - Students take pre-scheduled calls or meetings with their industry partner to onboard the project
+        - Continue conducting user interviews and research if team is not taking a call or meeting with the partner
 - Tue, Sep 25	Wireframing & User Narratives & ERD & Teammate Utilization
   - __Letter of Engagement Due__
 - Thr, Sep 27	Sprint 2 Retrospective, Sprint 3 Planning ......
