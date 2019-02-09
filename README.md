@@ -190,8 +190,23 @@ Term 2
         - Code review with a partner who 
 - Thursday, November 1 - Sprint Retrospective & Planning 
 - Tuesday, November 6 - Product and Investor Pitches ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0)) 
+    - Objectives:
+        - Identify practices of effective presentations
+        - Create a slide presentation of your project to present to your partner
+        - Fine tune documentation so any team can pick up your project, understand and develop it
+    - Activities:
+        - Scan funded company pitch decks to find slide formats to mimic for your own presentation 
+        - Develop your investor pitch deck
+        - Give and get feedback on each other's documentation
 - Thursday, November 8 - Sprint Retrospective & Planning 
-- Tuesday, November 13 - Myers Brigss Personality Assessment 
+- Tuesday, November 13 - Myers Briggs Personality Assessment
+    - Objectives:
+        - Explain the Myers Briggs Personality Assessment Framework
+        - Identify your Myers Briggs Personality type
+        - Communicate across different personality styles
+    - Activities:
+        - Take the Myers Briggs Personality Assessment
+        - Do 
 - Thursday, November 15 - Sprint Retrospective & Planning 
 - Tuesday, November 20 - Don Rags 
 - Thursday, November 22 - Fall Break 
