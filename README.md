@@ -158,7 +158,7 @@ Term 1:
         - Answer behavioral interview questions in the STAR format
         - Improve your interpersonal collaboration
     - Activities:
-        - Fill out [Teamwork Worksheet](https://docs.google.com/document/u/1/d/1fY7qp7VHYAg9RomO5aFBkebgdy9rDxhnoWAXSgEFC3Y/edit?usp=drive_web&ouid=102349547791146369642)
+        - Fill out the FIRST page of the [Teamwork Worksheet](https://docs.google.com/document/u/1/d/1fY7qp7VHYAg9RomO5aFBkebgdy9rDxhnoWAXSgEFC3Y/edit?usp=drive_web&ouid=102349547791146369642)
         - Partner to share your answers with a partner
         - Give and get feedback on the quality of your work with your parter
   - __Wireframe Due, User Narrative, ERD due__
@@ -171,8 +171,23 @@ Term 1:
 
 Term 2
 - Tuesday, October 23 - Team Performance Evaluation ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g426bbcb8ae_0_487)) 
+    - Objectives:
+        - Self assess our involvement on our team project
+        - Identify ways you want to improve as a teammate
+        - Create psychological safety to surface mistakes, concerns and create a sense of belonging
+    - Activities:
+        - Fill out [Teamwork Performance Rubric](https://docs.google.com/document/d/1d-K-DCbIvCOfmqIeoTAjoTg3LmiqXZc-RsTnIi3WAUg/edit)
+        - Watch and reflect on video about creation psychological safety
 - Thursday, October 25	- Sprint Retrospective & Planning 
 - Tuesday, October 30 - Teamwork Skills Interviewing & Code Reviews ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g457eb693a7_0_4)) 
+    - Objectives:
+        - Reflect on interpersonal lessons learned to prepare for interviews
+        - Answer behavioral interview questions in the STAR format
+        - Code Review another engineer's project
+    - Activities:
+        - Fill out the SECOND page of the [Teamwork Worksheet](https://docs.google.com/document/u/1/d/1fY7qp7VHYAg9RomO5aFBkebgdy9rDxhnoWAXSgEFC3Y/edit?usp=drive_web&ouid=102349547791146369642)
+        - Partner to share your answers with a partner
+        - Code review with a partner who 
 - Thursday, November 1 - Sprint Retrospective & Planning 
 - Tuesday, November 6 - Product and Investor Pitches ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0)) 
 - Thursday, November 8 - Sprint Retrospective & Planning 
