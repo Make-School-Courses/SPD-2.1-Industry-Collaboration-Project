@@ -229,11 +229,11 @@ Term 2
     - __Presentations to Industry Partners__ 
 - Thursday, December 13 - Adpotion
     - Objectives:
-        - Discuss strategies to 
-        - Give and get feedback on your product documentation
+        - Explain various strategies to increase the likelihood of user adoption
+        - Structure conversations with your industry partner to increase the likelihood of adoption
     - Activities:
-        - Give and get feedback on your product pitches
-        - Give and get feedback on your product documentation
+        - Brainstorm adoption strategies
+        - Create an adoption plan and take action
     - __Final Product Due__
 
 ## Huddle Schedule - daily morning group meeting
