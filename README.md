@@ -133,16 +133,34 @@ Term 1:
         - Continue conducting user interviews and research if team is not taking a call or meeting with the partner
 - Thr, Sep 20	Sprint 1 Retrospective, Sprint 2 Planning
     - Objectives:
-        - Understand the various painpoints and incentives of an industry partner
-        - Communicate technical possibilities to non-tech fluent stakeholders
-        - Agree on a process and timeline of collaboration
+        - Conduct a Sprint Review and Retrospective
+        - Plan your team's next Sprint
+        - Iterate your team's collaboration process
     -   Activities:
-        - Students take pre-scheduled calls or meetings with their industry partner to onboard the project
-        - Continue conducting user interviews and research if team is not taking a call or meeting with the partner
+        - Sprint Planning
+        - Sprint Retrospective
+    - Resources:
+        - (Link the Sprint Planning) resources in the syllabus
 - Tue, Sep 25	Wireframing & User Narratives & ERD & Teammate Utilization
+    - Objectives:
+        - Explain the best practices to Wireframing
+        - Explain the best practices for creating USer Narratives
+        - Explain the best practices to creating ERDs
+    - Activities:
+        - Give feedback on eachother's Letters of Engagement
+        - Review best practices for the documents listed above
+        - Work on your team's Wireframes, User Narratives, & ERDs
   - __Letter of Engagement Due__
 - Thr, Sep 27	Sprint 2 Retrospective, Sprint 3 Planning ......
-- Tue, Oct 2	360 Reviews & Conflict Resolution
+- Tue, Oct 2	Taking ownership over collaboration challenges
+    - Objectives:
+        - Reflect on interpersonal lessons learned to prepare for interviews
+        - Answer behavioral interview questions in the STAR format
+        - Improve your interpersonal collaboration
+    - Activities:
+        - Fill out [Teamwork Worksheet](https://docs.google.com/document/u/1/d/1fY7qp7VHYAg9RomO5aFBkebgdy9rDxhnoWAXSgEFC3Y/edit?usp=drive_web&ouid=102349547791146369642)
+        - Partner to share your answers with a partner
+        - Give and get feedback on the quality of your work with your parter
   - __Wireframe Due, User Narrative, ERD due__
 - Thr, Oct 4	Sprint 3 Retrospective, Sprint 4 Planning    
 - Tue, Oct 9	No Classes (Indigenous Peoples’ Day)
