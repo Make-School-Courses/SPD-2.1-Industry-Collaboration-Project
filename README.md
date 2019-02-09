@@ -33,16 +33,22 @@ Students by the end of the course will be able to ...
 
 ## Tutorials & Projects
 1. *Letter of Engagement* - Document that outlines the goals, scope, collaboration process and timeline for the company project ([templates & submission folder](https://drive.google.com/drive/u/0/folders/1orfy2fxAccRzS1u8AF91bGAgugjT1F3c))
-1. *Wireframes* - user interface mock up for your app
-1. *User Narrative* - narrative explaining the actions and thoughts of a new user on your app
-1. *Entity Relationship Diagrams "ERDs"* - relationship between different entities of your app
-1. *Mid Project 360* - Peer review process to evalaute your teams strengths, weaknesses and how you'd like to change your work habits for the coming term.
+    - __Due: Sept 25th__
+    - Evaluation: scores above a 2 on the [Writing and Blog Post Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit)
+1. *Product Mock Ups*
+    1. *Wireframes* - user interface mock up for your app
+    1. *User Narrative* - narrative explaining the actions and thoughts of a new user on your app
+    1. *Entity Relationship Diagrams "ERDs"* - relationship between different entities of your app
+    - __Due: Oct 2nd__
+    - Evaluation: model evaluation off of [this criteria](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/01-interviews-journeys-wireframes.md)
 1. *Product Prototype* - A fully functional prototype of the technical solution (or app that uses the API). Code includes documentation and comments so future developers can easily build on the product. Recommendations for future features and development.
-    - Grading - Team's project must core between a 2 and 3 on the [Portfolio Project Rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit)
+(https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit)
 1. *Final Presentation* - A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2. Here [tips](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0) for presentation slides.
     - __Due December 11th__
+    - Evaluation - score an average of above a 3 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit)
 1. *Final Product* - Your team's final product should score an average of 3 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric)
     - __Due December 13th__
+    - Evaluation - Team's project must above a 3 on the [Portfolio Project Rubric]
 
 ## Evaluation
 
