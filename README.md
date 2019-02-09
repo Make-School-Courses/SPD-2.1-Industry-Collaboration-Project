@@ -206,17 +206,34 @@ Term 2
         - Communicate across different personality styles
     - Activities:
         - Take the Myers Briggs Personality Assessment
-        - Do 
+        - Do a series of communication games to expose personality dynamics and communicate effectively
 - Thursday, November 15 - Sprint Retrospective & Planning 
 - Tuesday, November 20 - Don Rags 
 - Thursday, November 22 - Fall Break 
 - Tuesday, November 27 - [Advanced Bash and Unix Utilities](https://make.sc/bashsesh)
+    - Objectives:
+        - Execute advanced uses of Bash and Unix
+        - Explain the various benefits and efficency of using a variety of advnanced Bash and Unix commands
+    - Activities:
+        - Complete the Advanced Bash and Unix Utilities
 - Thursday, November 29 - Sprint Retrospective & Planning 
 - Tuesday, December 4 - Practice Pitches & Documentation Review 
+    - Objectives:
+        - Give and get feedback on your product pitches
+        - Give and get feedback on your product documentation
+    - Activities:
+        - Give and get feedback on your product pitches
+        - Give and get feedback on your product documentation
 - Thursday, December 6 - Sprint Retrospective & Planning 
 - Tuesday, December 11 - Final Presentations 
     - __Presentations to Industry Partners__ 
-- Thursday, December 13 - Documentation Final Peer Review 
+- Thursday, December 13 - Adpotion
+    - Objectives:
+        - Discuss strategies to 
+        - Give and get feedback on your product documentation
+    - Activities:
+        - Give and get feedback on your product pitches
+        - Give and get feedback on your product documentation
     - __Final Product Due__
 
 ## Huddle Schedule - daily morning group meeting
