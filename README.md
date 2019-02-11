@@ -1,8 +1,8 @@
-# SPD 2.1 and 2.2 Industry Collaboration Project
+# SPD 2.1 Industry Collaboration Project 1
 
 ## Course Description
 
-Student groups of 5-8 will work with actual organizations to co-develop software products. This experience simulates many challenges and opportunities of actual work environments (See Benefits & New Experiences). The project also creates potential for students to ship products to actual users and develop code that will be used by future developers.
+Students team up to work on an ambitious project of their choice or with actual organizations or other student teams to co-develop software products. This experience simulates many challenges and opportunities of actual work environments including, managing stakeholders, cross team collaboration, leading teams, managing up, conflict resolution, advocating for their ideas, increasing probability of adoption within an organization and users. Key concepts of how to lead and how to follow, how to manage and how to be managed are taught through role playing, discussion, and and in depth reading list of both current and classical writings on leadership. For students who never want a job as a manager to those who want to climb the corporate ladder, the course provides vital lessons on how teams work and how to make them great.
 
 Students can find an organization to work with on their own or select from a group of preselected organizations. Students also have the option to work on their own original idea.
 
@@ -31,6 +31,44 @@ Students by the end of the course will be able to ...
 4. Ship a product to actual users and iterate to user needs (PLO 3).
 5. Conduct agile sprints with a team of 5+ engineers (PLO 3).
 
+## Schedule
+
+**Course Dates:** Tuesday, August 28, 2018  – Thursday, October 11, 2018 (7 weeks)
+
+**Class Times:** Tuesday and Thursday at 10:00 – 11:20pm (14 class sessions)  
+
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Tuesday              | [Lesson 1] |
+|  2 | Thursday             | [Lesson 2] |
+|  3 |  Tuesday             | [Lesson 3] |
+|  4 | Thursday             | [Lesson 4] |
+|  5 |  Tuesday             | [Lesson 5] |
+|  6 | Thursday             | [Lesson 6] |
+|  7 |  Tuesday             | [Lesson 7]|
+|  8 | Thursday            | [Sprint Retrospective] |
+|  9 |  Tuesday             | [Lesson 8] |
+|  10 | Thursday             | [Sprint Retrospective] |
+|  11 |  Tuesday             | [Lesson 8] |
+|  12 | Thursday            |  [Sprint Retrospective]|
+|  13 |  Tuesday            | No Class - Holiday |
+|  14 | Thursday             | [Sprint Retrospective] |
+
+[Lesson 1]: Lessons/01-Ideation-And-Reaserch.md
+[Lesson 2]: Lessons/02-User-Interviewing.md
+[Lesson 3]: Lessons/03-Role-Best-Practices.md
+[Lesson 4]: Lessons/04-Working-With-Partners.md
+[Lesson 5]: Lessons/05-Collaboration-Risks.md
+[Lesson 6]: Lessons/06-Industry-Partner-Conversations-1.md
+[Lesson 7]: Lessons/07-Industry-Partner-Conversations-2.md
+[Lesson 8]: Lessons/08-Wireframing-And-User-Narratives.md
+[Lesson 9]: Lessons/09-Collaboration-Challenges.md
+[Sprint Retrospective]: Lessons/Sprint-Retrospective-And-Planning.md
+
+
+
+
 ## Tutorials & Projects
 1. *Letter of Engagement* - Document that outlines the goals, scope, collaboration process and timeline for the company project ([templates & submission folder](https://drive.google.com/drive/u/0/folders/1orfy2fxAccRzS1u8AF91bGAgugjT1F3c))
     - __Due: Sept 25th__
@@ -54,129 +92,66 @@ Students by the end of the course will be able to ...
 
 To pass this course you must meet the following requirements:
 
-- No more than two no call no shows
-- No more than four excused absences
+- Complete all required tutorials
+- Pass all projects according to the associated project rubric
+- Present a Prototype (Term 1) and Product (Term 2)
+- Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
-- Finish all required tutorials and projects
-- Pass the final exam (summative assessment) >=80%
+
 
 ## Collaboration Expectations
 
 - **[Student Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.yri3le8rfq5y)** - see this [flyer](https://docs.google.com/document/d/1VJX5-UYzjTA42pAw1rP4VXVYnMnGOj7BGd2A4ufGeKY/edit) to gauge interest from prospective industry collaborators.
-- **[Participating Organization Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.mg9scq4lebzc)** 
-- **[Expectations for Instructors](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.8ve0deyw0r2j)** 
+- **[Participating Organization Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.mg9scq4lebzc)**
+- **[Expectations for Instructors](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.8ve0deyw0r2j)**
 
 ## Resources
 
 - **User Interviews** - user interviews help you understand and validate user needs. Here are user interview [best practices](https://docs.google.com/presentation/d/1xtUGbErF315eKkvVAstTnWzoXLmpygtf6YGTEMYwg_A/edit#slide=id.p) and a [template script](https://docs.google.com/document/d/1uRRKejC3Ullk5vdw9P1SHmE56CGkekH2dIaoBV9ISeM/edit)
 - **Best Practices for User Narratives, Wireframe, Entity Relationship Diagram** - see [best practice articles, videos, and slides](https://docs.google.com/document/d/1uCxdv8N0TltGNS1YLOS8SkD0uLcir0Wg2I9pxS_PL_w/edit#) See [class slides](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit#slide=id.g3e71f5355a_0_26) here.
-- **Sprint Planning Meetings (1 hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.xffidahcubfs)*. Led by the PM. Team checks their roadmap and evaluate teams’ needs to decide what goes into the next sprint, and assign tasks. Teams can use [planning poker](https://en.wikipedia.org/wiki/Planning_poker) to estimate task effort. Everything is logged into Trello. You can copy this [Sprint Planning Trello Board template](https://trello.com/b/ftyBKJb3/eng-sprint-board-template).
-- **Sprint Retrospective (½ hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)*. Complete the old sprint board by checking all tickets and moving incomplete ones over to the next sprint board. Then estimate the tickets that the PM have moved into the board ahead of meeting. Go over what was completed, what went well not if it didn’t go so well, but double check how everyone felt. Anyone feel overloaded on work? Anything the PM could have done differently? [Sprint Retrospective Trello Board Template](https://trello.com/b/8tEv8Uaj/eng-retro-board-template).
+- **Sprint Planning Meetings (1 hour, weekly)**
+ - [Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.xffidahcubfs)
+ - [Planning Poker](https://en.wikipedia.org/wiki/Planning_poker)
+ - [Sprint Planning Trello Board template](https://trello.com/b/ftyBKJb3/eng-sprint-board-template).
+- **Sprint Retrospective (½ hour, weekly)**
+ - [Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)
+ - [Sprint Retrospective Trello Board Template](https://trello.com/b/8tEv8Uaj/eng-retro-board-template).
 - **Letter of Engagement Templates** - customize [these templates](https://drive.google.com/drive/u/0/folders/1orfy2fxAccRzS1u8AF91bGAgugjT1F3c) to outline the objectives, scope, and timeline for your project/
+
+
+## Attendance
+Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
+
+Attendance requirements for scheduled sessions are:
+- No more than two no call no shows per term in any scheduled session.
+- No more than four excused absences per term in any scheduled session.
+
+Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
+
+
+## Make School Course Policies
+
+[Academic Honesty](https://make.sc/academic-honesty)<br>
+[Accommodations for Students](https://make.sc/accommodations-for-students)<br>
+[Attendance Policy](https://make.sc/attendance-policy)  
+[Diversity and Inclusion Policy](https://make.sc/diversity-and-inclusion-policy)<br>
+[Grading System](https://make.sc/grading-system)
+<br>
+[Title IX Policy](https://make.sc/title-ix-policy)<br>
+[Program Learning Outcomes](https://make.sc/program-learning-outcomes)
 
 
 # Lessons & Deliverables
 
-Class sessions may varry depending on team project.
-
-Term 1:
-- Tue, Aug 28	- Ideation & Research ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_16))
-    - Objectives:
-        - Brainstorm ideas for your senior SPD project using a variety of frameworks
-        - Prioritize the potential of your ideas
-        - Explain the opportunity and challenges of collaborating with an industry partner for your senior SPD project
-    -   Activities:
-        - Brainstorm ideas & partners for your project
-        - Debate the potential for ideas and partnerships with peers
-- Thu, Aug 30	- Team Formation & User Interviewing ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g4156443509_0_9))
-    - Objectives:
-        - Persuade peers to include you on their team
-        - Clarify roles and responsibilities with teammates
-        - Plan your team's communication norms
-    -   Activities:
-        - Form teams formation
-        - Set up team communication opperations
-- Tue, Sep 4	- Role Best Practices & Team Expectations ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_20))
-    - Objectives:
-        - Explore dependencies between different teammates and roles
-        - Set expectations for high quality collaboration with teammates, partners, and advisors
-        - Extablish rules and responses for teammates breaking expectations
-    -   Activities:
-        - Discuss dependencies between different teammates and roles
-        - Clarify expectations for high quality collaboration with teammates, partners, and advisors
-        - Extablish rules and responses for teammates breaking expectations
-- Thr, Sep 5	Working with Partners & Letter of Engagement ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g416a5cd346_0_0))
-    - Objectives:
-        - Structure your collaboration with your industry partner: meeting times, sprints, feedback, communication frequency
-        - Conduct agile sprint planning with a team of 5+ engineers
-    -   Activities:
-        - Write a Letter of Engagement outlining your proposed collaboration method with your partner
-        - Begin your first Agile Sprint Planning
-- Tue, Sep 11	Collaboration Risks & User Interviews ([Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g426bbcb8ae_0_446))
-    - Objectives:
-        - Identify risks for collaborating with your project partner
-        - Create strategies to mitigate risks in collaboration
-        - Identify subjects for interviewees
-        - Design an unbiased user interview
-    -   Activities:
-        - Discuss how to identify and mitigate risks of collaborating with your project partner
-        - Write a user interview script and begin conducting them
-- Thr, Sep 13	Lab & Industry Partner Conversations
-    - Objectives:
-        - Understand the various painpoints and incentives of an industry partner
-        - Communicate technical possibilities to non-tech fluent stakeholders
-        - Agree on a process and timeline of collaboration
-    -   Activities:
-        - Students take pre-scheduled calls or meetings with their industry partner to onboard the project
-        - Continue conducting user interviews and research if team is not taking a call or meeting with the partner
-- Tue, Sep 18	Lab & Industry Partner Conversations
-    - Objectives:
-        - Understand the various painpoints and incentives of an industry partner
-        - Communicate technical possibilities to non-tech fluent stakeholders
-        - Agree on a process and timeline of collaboration
-    -   Activities:
-        - Students take pre-scheduled calls or meetings with their industry partner to onboard the project
-        - Continue conducting user interviews and research if team is not taking a call or meeting with the partner
-- Thr, Sep 20	Sprint 1 Retrospective, Sprint 2 Planning
-    - Objectives:
-        - Conduct a Sprint Review and Retrospective
-        - Plan your team's next Sprint
-        - Iterate your team's collaboration process
-    -   Activities:
-        - Sprint Planning
-        - Sprint Retrospective
-    - Resources:
-        - (Link the Sprint Planning) resources in the syllabus
-- Tue, Sep 25	Wireframing & User Narratives & ERD & Teammate Utilization
-    - Objectives:
-        - Explain the best practices to Wireframing
-        - Explain the best practices for creating USer Narratives
-        - Explain the best practices to creating ERDs
-    - Activities:
-        - Give feedback on eachother's Letters of Engagement
-        - Review best practices for the documents listed above
-        - Work on your team's Wireframes, User Narratives, & ERDs
-  - __Letter of Engagement Due__
-- Thr, Sep 27	Sprint 2 Retrospective, Sprint 3 Planning ......
-- Tue, Oct 2	Taking ownership over collaboration challenges
-    - Objectives:
-        - Reflect on interpersonal lessons learned to prepare for interviews
-        - Answer behavioral interview questions in the STAR format
-        - Improve your interpersonal collaboration
-    - Activities:
-        - Fill out the FIRST page of the [Teamwork Worksheet](https://docs.google.com/document/u/1/d/1fY7qp7VHYAg9RomO5aFBkebgdy9rDxhnoWAXSgEFC3Y/edit?usp=drive_web&ouid=102349547791146369642)
-        - Partner to share your answers with a partner
-        - Give and get feedback on the quality of your work with your parter
-  - __Wireframe Due, User Narrative, ERD due__
 - Thr, Oct 4	Sprint 3 Retrospective, Sprint 4 Planning    
 - Tue, Oct 9	No Classes (Indigenous Peoples’ Day)
 - Thr, Oct 11	Sprint 3 Retrospective, Sprint 4 Planning
-- Mon-Fri, Oct 15-19th WEEK LONG INTENSIVE 
+- Mon-Fri, Oct 15-19th WEEK LONG INTENSIVE
   - __MVP draft of product due Oct 19th__
 <br>
 
 Term 2
-- Tuesday, October 23 - Team Performance Evaluation ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g426bbcb8ae_0_487)) 
+- Tuesday, October 23 - Team Performance Evaluation ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g426bbcb8ae_0_487))
     - Objectives:
         - Self assess our involvement on our team project
         - Identify ways you want to improve as a teammate
@@ -184,8 +159,8 @@ Term 2
     - Activities:
         - Fill out [Teamwork Performance Rubric](https://docs.google.com/document/d/1d-K-DCbIvCOfmqIeoTAjoTg3LmiqXZc-RsTnIi3WAUg/edit)
         - Watch and reflect on video about creation psychological safety
-- Thursday, October 25	- Sprint Retrospective & Planning 
-- Tuesday, October 30 - Teamwork Skills Interviewing & Code Reviews ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g457eb693a7_0_4)) 
+- Thursday, October 25	- Sprint Retrospective & Planning
+- Tuesday, October 30 - Teamwork Skills Interviewing & Code Reviews ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g457eb693a7_0_4))
     - Objectives:
         - Reflect on interpersonal lessons learned to prepare for interviews
         - Answer behavioral interview questions in the STAR format
@@ -193,18 +168,18 @@ Term 2
     - Activities:
         - Fill out the SECOND page of the [Teamwork Worksheet](https://docs.google.com/document/u/1/d/1fY7qp7VHYAg9RomO5aFBkebgdy9rDxhnoWAXSgEFC3Y/edit?usp=drive_web&ouid=102349547791146369642)
         - Partner to share your answers with a partner
-        - Code review with a partner who 
-- Thursday, November 1 - Sprint Retrospective & Planning 
-- Tuesday, November 6 - Product and Investor Pitches ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0)) 
+        - Code review with a partner who
+- Thursday, November 1 - Sprint Retrospective & Planning
+- Tuesday, November 6 - Product and Investor Pitches ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0))
     - Objectives:
         - Identify practices of effective presentations
         - Create a slide presentation of your project to present to your partner
         - Fine tune documentation so any team can pick up your project, understand and develop it
     - Activities:
-        - Scan funded company pitch decks to find slide formats to mimic for your own presentation 
+        - Scan funded company pitch decks to find slide formats to mimic for your own presentation
         - Develop your investor pitch deck
         - Give and get feedback on each other's documentation
-- Thursday, November 8 - Sprint Retrospective & Planning 
+- Thursday, November 8 - Sprint Retrospective & Planning
 - Tuesday, November 13 - Myers Briggs Personality Assessment
     - Objectives:
         - Explain the Myers Briggs Personality Assessment Framework
@@ -213,26 +188,26 @@ Term 2
     - Activities:
         - Take the Myers Briggs Personality Assessment
         - Do a series of communication games to expose personality dynamics and communicate effectively
-- Thursday, November 15 - Sprint Retrospective & Planning 
-- Tuesday, November 20 - Don Rags 
-- Thursday, November 22 - Fall Break 
+- Thursday, November 15 - Sprint Retrospective & Planning
+- Tuesday, November 20 - Don Rags
+- Thursday, November 22 - Fall Break
 - Tuesday, November 27 - [Advanced Bash and Unix Utilities](https://make.sc/bashsesh)
     - Objectives:
         - Execute advanced uses of Bash and Unix
         - Explain the various benefits and efficency of using a variety of advnanced Bash and Unix commands
     - Activities:
         - Complete the Advanced Bash and Unix Utilities
-- Thursday, November 29 - Sprint Retrospective & Planning 
-- Tuesday, December 4 - Practice Pitches & Documentation Review 
+- Thursday, November 29 - Sprint Retrospective & Planning
+- Tuesday, December 4 - Practice Pitches & Documentation Review
     - Objectives:
         - Give and get feedback on your product pitches
         - Give and get feedback on your product documentation
     - Activities:
         - Give and get feedback on your product pitches
         - Give and get feedback on your product documentation
-- Thursday, December 6 - Sprint Retrospective & Planning 
-- Tuesday, December 11 - Final Presentations 
-    - __Presentations to Industry Partners__ 
+- Thursday, December 6 - Sprint Retrospective & Planning
+- Tuesday, December 11 - Final Presentations
+    - __Presentations to Industry Partners__
 - Thursday, December 13 - Adpotion
     - Objectives:
         - Explain various strategies to increase the likelihood of user adoption
