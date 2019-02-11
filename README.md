@@ -21,7 +21,7 @@ Class Sessions:  14 classes, plus 7 coaching meetings and 24 huddles
 
 SPD 1.4
 
-## Learning Objectives or Competencies
+## Learning Objectives
 
 Students by the end of the course will be able to ...
 
@@ -36,6 +36,8 @@ Students by the end of the course will be able to ...
 **Course Dates:** Tuesday, August 28, 2018  – Thursday, October 11, 2018 (7 weeks)
 
 **Class Times:** Tuesday and Thursday at 10:00 – 11:20pm (14 class sessions)  
+
+**Huddle Times: ** 9:30 - 10:00 Monday - Thursday. Content is in google calendar event descriptions.
 
 
 | Class |          Date          |                 Topics                  |
@@ -70,6 +72,8 @@ Students by the end of the course will be able to ...
 
 
 ## Tutorials & Projects
+
+### SPD 2.1
 1. *Letter of Engagement* - Document that outlines the goals, scope, collaboration process and timeline for the company project ([templates & submission folder](https://drive.google.com/drive/u/0/folders/1orfy2fxAccRzS1u8AF91bGAgugjT1F3c))
     - __Due: Sept 25th__
     - Evaluation: scores above a 2 on the [Writing and Blog Post Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit)
@@ -81,12 +85,21 @@ Students by the end of the course will be able to ...
     - Evaluation: model evaluation off of [this criteria](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/01-interviews-journeys-wireframes.md)
 1. *Product Prototype* - A fully functional prototype of the technical solution (or app that uses the API). Code includes documentation and comments so future developers can easily build on the product. Recommendations for future features and development.
 (https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit)
+  - **Due Oct 11**
+
+### SPD 2.2
 1. *Final Presentation* - A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2. Here [tips](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0) for presentation slides.
     - __Due December 11th__
     - Evaluation - score an average of above a 3 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit)
 1. *Final Product* - Your team's final product should score an average of 3 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric)
     - __Due December 13th__
     - Evaluation - Team's project must above a 3 on the [Portfolio Project Rubric]
+
+## Collaboration Expectations
+
+- **[Student Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.yri3le8rfq5y)** - see this [flyer](https://docs.google.com/document/d/1VJX5-UYzjTA42pAw1rP4VXVYnMnGOj7BGd2A4ufGeKY/edit) to gauge interest from prospective industry collaborators.
+- **[Participating Organization Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.mg9scq4lebzc)**
+- **[Expectations for Instructors](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.8ve0deyw0r2j)**
 
 ## Evaluation
 
@@ -98,12 +111,6 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
-
-## Collaboration Expectations
-
-- **[Student Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.yri3le8rfq5y)** - see this [flyer](https://docs.google.com/document/d/1VJX5-UYzjTA42pAw1rP4VXVYnMnGOj7BGd2A4ufGeKY/edit) to gauge interest from prospective industry collaborators.
-- **[Participating Organization Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.mg9scq4lebzc)**
-- **[Expectations for Instructors](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.8ve0deyw0r2j)**
 
 ## Resources
 
@@ -139,93 +146,3 @@ Failure to meet these requirements will result in a PIP (Participation Improveme
 <br>
 [Title IX Policy](https://make.sc/title-ix-policy)<br>
 [Program Learning Outcomes](https://make.sc/program-learning-outcomes)
-
-
-# Lessons & Deliverables
-
-- Thr, Oct 4	Sprint 3 Retrospective, Sprint 4 Planning    
-- Tue, Oct 9	No Classes (Indigenous Peoples’ Day)
-- Thr, Oct 11	Sprint 3 Retrospective, Sprint 4 Planning
-- Mon-Fri, Oct 15-19th WEEK LONG INTENSIVE
-  - __MVP draft of product due Oct 19th__
-<br>
-
-Term 2
-- Tuesday, October 23 - Team Performance Evaluation ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g426bbcb8ae_0_487))
-    - Objectives:
-        - Self assess our involvement on our team project
-        - Identify ways you want to improve as a teammate
-        - Create psychological safety to surface mistakes, concerns and create a sense of belonging
-    - Activities:
-        - Fill out [Teamwork Performance Rubric](https://docs.google.com/document/d/1d-K-DCbIvCOfmqIeoTAjoTg3LmiqXZc-RsTnIi3WAUg/edit)
-        - Watch and reflect on video about creation psychological safety
-- Thursday, October 25	- Sprint Retrospective & Planning
-- Tuesday, October 30 - Teamwork Skills Interviewing & Code Reviews ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g457eb693a7_0_4))
-    - Objectives:
-        - Reflect on interpersonal lessons learned to prepare for interviews
-        - Answer behavioral interview questions in the STAR format
-        - Code Review another engineer's project
-    - Activities:
-        - Fill out the SECOND page of the [Teamwork Worksheet](https://docs.google.com/document/u/1/d/1fY7qp7VHYAg9RomO5aFBkebgdy9rDxhnoWAXSgEFC3Y/edit?usp=drive_web&ouid=102349547791146369642)
-        - Partner to share your answers with a partner
-        - Code review with a partner who
-- Thursday, November 1 - Sprint Retrospective & Planning
-- Tuesday, November 6 - Product and Investor Pitches ([Class Slides](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0))
-    - Objectives:
-        - Identify practices of effective presentations
-        - Create a slide presentation of your project to present to your partner
-        - Fine tune documentation so any team can pick up your project, understand and develop it
-    - Activities:
-        - Scan funded company pitch decks to find slide formats to mimic for your own presentation
-        - Develop your investor pitch deck
-        - Give and get feedback on each other's documentation
-- Thursday, November 8 - Sprint Retrospective & Planning
-- Tuesday, November 13 - Myers Briggs Personality Assessment
-    - Objectives:
-        - Explain the Myers Briggs Personality Assessment Framework
-        - Identify your Myers Briggs Personality type
-        - Communicate across different personality styles
-    - Activities:
-        - Take the Myers Briggs Personality Assessment
-        - Do a series of communication games to expose personality dynamics and communicate effectively
-- Thursday, November 15 - Sprint Retrospective & Planning
-- Tuesday, November 20 - Don Rags
-- Thursday, November 22 - Fall Break
-- Tuesday, November 27 - [Advanced Bash and Unix Utilities](https://make.sc/bashsesh)
-    - Objectives:
-        - Execute advanced uses of Bash and Unix
-        - Explain the various benefits and efficency of using a variety of advnanced Bash and Unix commands
-    - Activities:
-        - Complete the Advanced Bash and Unix Utilities
-- Thursday, November 29 - Sprint Retrospective & Planning
-- Tuesday, December 4 - Practice Pitches & Documentation Review
-    - Objectives:
-        - Give and get feedback on your product pitches
-        - Give and get feedback on your product documentation
-    - Activities:
-        - Give and get feedback on your product pitches
-        - Give and get feedback on your product documentation
-- Thursday, December 6 - Sprint Retrospective & Planning
-- Tuesday, December 11 - Final Presentations
-    - __Presentations to Industry Partners__
-- Thursday, December 13 - Adpotion
-    - Objectives:
-        - Explain various strategies to increase the likelihood of user adoption
-        - Structure conversations with your industry partner to increase the likelihood of adoption
-    - Activities:
-        - Brainstorm adoption strategies
-        - Create an adoption plan and take action
-    - __Final Product Due__
-
-## Huddle Schedule - daily morning group meeting
-Huddle session content is housed in the google calendar event descritions
-
-## Make School Course Policies
-
-[Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)<br>
-[Accomodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)<br>
-[Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)<br>
-[Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
-<br>
-[Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)<br>
-[Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
