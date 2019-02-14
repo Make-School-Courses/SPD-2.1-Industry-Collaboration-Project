@@ -25,11 +25,11 @@ SPD 1.4
 
 Students by the end of the course will be able to ...
 
-1. Collaborate cross functionally to various stakeholders to engineers, project managers, founders, and other roles.  Adapt communication to various styles and knowledge levels. (PLO 4)
-2. Proactively clarify expectations with collaborators and suggest solutions (PLO 4).
-3. Explain the various incentives and politics one must navigate when developing a software product (PLO 4, PLO 6).
-4. Ship a product to actual users and iterate to user needs (PLO 3).
-5. Conduct agile sprints with a team of 5+ engineers (PLO 3).
+1. Collaborate cross functionally to various stakeholders such as engineers, project managers, and founders. (PLO 4)
+1. Proactively set and clarify expectations with collaborators and suggest solutions (PLO 4).
+1. Explain the various incentives and politics one must navigate when developing a software product (PLO 4, PLO 6).
+1. Ship a product to actual users and iterate to user needs (PLO 3).
+1. Conduct agile sprints with a team of 5+ engineers (PLO 3).
 
 ## Schedule
 
