@@ -52,7 +52,7 @@ Students by the end of the course will be able to ...
 |  8 | Thursday            | [Sprint Retrospective] |
 |  9 |  Tuesday             | [Lesson 8] |
 |  10 | Thursday             | [Sprint Retrospective] |
-|  11 |  Tuesday             | [Lesson 8] |
+|  11 |  Tuesday             | [Lesson 9] |
 |  12 | Thursday            |  [Sprint Retrospective]|
 |  13 |  Tuesday            | No Class - Holiday |
 |  14 | Thursday             | [Sprint Retrospective] |
