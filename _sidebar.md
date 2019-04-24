@@ -15,7 +15,6 @@
   - [Sprint Retrospective]
   - Final Class (Presentations, Demos, etc)
   - Final Exam/Presentations
-- **[Project](Assignments/Sample_Project.md)**
 
 [Lesson 1]: Lessons/01-Ideation-And-Reaserch.md
 [Lesson 2]: Lessons/02-User-Interviewing.md
