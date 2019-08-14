@@ -86,6 +86,19 @@ For your project, you will construct a PRD, a document frequently used in indust
 
 Copy the [PRD Template](https://docs.google.com/document/d/10u8lI0VhBcj69hdTFDsZAdA_PgZ6136Bsvrnn8jwlmQ/edit?usp=sharing) and fill in all of the sections. Remember you will be putting in your User Interviews, User Journeys, Wireframes, and ERDs in this document as well.
 
+
+### Senior Leadership 
+
+**DUE DATE: Thursday, October 10**
+
+Before the end of the term, you must fulfill a Senior Leadership role in _one_ of the following:
+
+- PM your industry collaboration project
+- Pair Program with a Junior student (at least once)
+- Code Review with a Junior student (at least once)
+
+More information can be found in [these slides](https://docs.google.com/presentation/d/1QBtEhCqe27kROEG8s7HTyBmcsemXWqzqif0MmSSzoww/edit?usp=sharing) in how to get involved if you're not going to be a PM for your project.
+
 ### MVP
 
 **DUE DATE: Thursday, October 10**
