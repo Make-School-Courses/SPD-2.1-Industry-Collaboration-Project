@@ -31,32 +31,32 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, Aug 27             | [Lesson 1] |
-|  2 |  Thu, Aug 29            | [Lesson 2] |
-|  3 |  Tue, Sept 3            | [Lesson 3] |
-|  4 |  Thu, Sept 5            | [Lesson 4] |
-|  5 |  Tue, Sept 10           | [Lesson 5] |
-|  6 |  Thu, Sept 12           | [Lesson 6] |
-|  7 |  Tue, Sept 17           | [Lesson 7]|
-|  8 |  Thu, Sept 19          | [Sprint Retrospective] |
-|  9 |  Tue, Sept 24           | [Lesson 8] |
-|  10 | Thu, Sept 26            | [Sprint Retrospective] |
-|  11 | Tue, Oct 1              | [Lesson 9] |
-|  12 | Thu, Oct 3             |  [Sprint Retrospective]|
-|  13 | Tue, Oct 8             | No Class - Holiday |
-|  14 | Thu, Oct 10             | [Sprint Retrospective] |
+|  1 |  Tue, Aug 27             | [Ideation and Team Formation] |
+|  2 |  Thu, Aug 29            | [Client Relationships] |
+|  3 |  Tue, Sept 3            | Meet Partner! |
+|  4 |  Thu, Sept 5            | [Sprint Planning + Assignment Feedback] |
+|  5 |  Tue, Sept 10           | [Managing Dependencies] |
+|  6 |  Thu, Sept 12           | [Sprint Retro/Planning + PRD Feedback] |
+|  7 |  Tue, Sept 17           | [Decision Making]|
+|  8 |  Thu, Sept 19          | [Sprint Retro/Planning + Role Breakouts 1] |
+|  9 |  Tue, Sept 24           | [Delegation and Follow Through] |
+|  10 | Thu, Sept 26            | [Sprint Retro/Planning + Conflict Jigsaw] |
+|  11 | Tue, Oct 1              | [Role Breakouts 2 + MVP Practice Pitch] |
+|  12 | Thu, Oct 3             |  [Sprint Retro/Planning + Work Time]|
+|  13 | Tue, Oct 8             | Project Work Time |
+|  14 | Thu, Oct 10             | MVP Presentations |
 
-[Lesson 1]: Lessons/01-Ideation-And-Reaserch.md
-[Lesson 2]: Lessons/02-User-Interviewing.md
-[Lesson 3]: Lessons/03-Role-Best-Practices.md
-[Lesson 4]: Lessons/04-Working-With-Partners.md
-[Lesson 5]: Lessons/05-Collaboration-Risks.md
-[Lesson 6]: Lessons/06-Industry-Partner-Conversations-1.md
-[Lesson 7]: Lessons/07-Industry-Partner-Conversations-2.md
-[Lesson 8]: Lessons/08-Wireframing-And-User-Narratives.md
-[Lesson 9]: Lessons/09-Collaboration-Challenges.md
-[Sprint Retrospective]: Lessons/Sprint-Retrospective-And-Planning.md
-
+[Ideation and Team Formation]: https://drive.google.com/open?id=1H-fKByXUABNdUsSGLkNgQ6P-cefrmCbhJcHluQqlCIE
+[Client Relationships]: https://docs.google.com/presentation/d/1WkQG_0ZeZ6dJt6WErWB4DQZ7g1ScE8rnqmEezvtH77c/edit?usp=sharing
+[Sprint Planning + Assignment Feedback]: https://drive.google.com/open?id=1UyHyKTosbKJVA_U3zpLGa_R_V9zpj2S3XH3E9e07nxQ
+[Managing Dependencies]: https://drive.google.com/open?id=1bS8O6m7YhBSBE0Mtcq7mJXd-CEej6Ujrr-HIzaZIiF4
+[Sprint Retro/Planning + PRD Feedback]: https://drive.google.com/open?id=1Iaj95VljHC1jzfOajBNGIa45kau-P2MRSB_BH8kfxl0
+[Decision Making]: https://docs.google.com/presentation/d/1xWRONfK6jdQk1bpadVYYIdbUoAQ37HWHPhGLCgjZUGE/edit?usp=sharing
+[Sprint Retro/Planning + Role Breakouts 1]: https://drive.google.com/open?id=1vvIJBns8IM04rwi1FtuGFgVzGvKhHvRSGhMUq08B7Og
+[Delegation and Follow Through]: https://docs.google.com/presentation/d/1PuHmtxsSTUmy1tYqYqWxz5AdmbupF8v6xAsa94XYHoc/edit?usp=sharing
+[Sprint Retro/Planning + Conflict Jigsaw]: https://drive.google.com/open?id=1zVp34ZU8Umw_9-wPJWG_IvaCFwxEFKwlutJPDYttGZA
+[Role Breakouts 2 + MVP Practice Pitch]: https://drive.google.com/open?id=1CC3kKwev9Yta8M5rEoawJ13MGI-0q_OPj7S2diY6pA0
+[Sprint Retro/Planning + Work Time]: https://drive.google.com/open?id=1bik37PNQP5jRRoTzEvGO7X5-EB_NFaZf1jOa92vvAJ4
 
 
 
@@ -85,6 +85,12 @@ For your project, you will need to conduct user interviews, craft user journeys,
 For your project, you will construct a PRD, a document frequently used in industry to convey the purpose and specifications of a product. You will be sharing this artifact with your industry partner.
 
 Copy the [PRD Template](https://docs.google.com/document/d/10u8lI0VhBcj69hdTFDsZAdA_PgZ6136Bsvrnn8jwlmQ/edit?usp=sharing) and fill in all of the sections. Remember you will be putting in your User Interviews, User Journeys, Wireframes, and ERDs in this document as well.
+
+### MVP
+
+**DUE DATE: Thursday, October 10**
+
+By the end of this course, you should have an MVP of your product that you will present both in class and to your industry partner.
 
 ## Collaboration Expectations
 
