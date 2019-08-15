@@ -66,9 +66,10 @@ By the end of the course, you will be able to ...
 
 In place of a final exam, there will be **3 quizzes** held throughout the course of this term. They will be done in class on the below dates:
 
-- **Quiz 1 - Thursday, Sept 19**
-- **Quiz 2 - Tuesday, Oct 1**
-- **Quiz 3 - Tuesday, Oct 8**
+- **Quiz 1: Managing Timelines & Dependencies - Thursday, Sept 19**
+- **Quiz 2: Decision Making - Tuesday, Oct 1**
+- **Quiz 3: Delegating & Follow Through - Tuesday, Oct 8**
+
 
 ### User Interviews, User Journeys, Wireframes, ERDs
 
