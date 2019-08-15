@@ -33,7 +33,7 @@ By the end of the course, you will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tue, Aug 27             | [Ideation and Team Formation] |
 |  2 |  Thu, Aug 29            | [Client Relationships] |
-|  3 |  Tue, Sept 3            | Meet Partner! |
+|  3 |  Tue, Sept 3            | Meet Industry Partner! |
 |  4 |  Thu, Sept 5            | [Sprint Planning + Assignment Feedback] |
 |  5 |  Tue, Sept 10           | [Managing Dependencies] |
 |  6 |  Thu, Sept 12           | [Sprint Retro/Planning + PRD Feedback] |
