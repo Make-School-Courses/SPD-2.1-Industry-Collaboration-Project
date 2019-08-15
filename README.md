@@ -75,9 +75,9 @@ In place of a final exam, there will be **3 quizzes** held throughout the course
 
 **DUE DATE: Thursday, September 5**
 
-For your project, you will need to conduct user interviews, craft user journeys, build out wireframes, and construct ERDs to provide an origin story and starting point for your project. You will also be adding all of these to your product requirements document (PRD), which you will be sharing with your industry partner.
+For your project, you will need to conduct user interviews, craft user journeys, build out wireframes, and construct ERDs to provide an origin story and starting point for your project. You will also be adding some of these to your product requirements document (PRD), which you will be sharing with your industry partner.
 
-**Evaluation:** You will be evaluated on this assignment using the [same rubric used in SPD 1.3](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/01-interviews-journeys-wireframes.md).
+**Evaluation:** You will be evaluated on this assignment using the [following rubric](https://docs.google.com/document/d/1-Cty_tXziOV1UHQqG1ngRK3Uft8NorXqjWeOC6eIYcc/edit#). You must get at least half of the points in the above rubric to pass the assignment.
 
 ### Product Requirements Document (PRD)
 
@@ -85,20 +85,24 @@ For your project, you will need to conduct user interviews, craft user journeys,
 
 For your project, you will construct a PRD, a document frequently used in industry to convey the purpose and specifications of a product. You will be sharing this artifact with your industry partner.
 
-Copy the [PRD Template](https://docs.google.com/document/d/10u8lI0VhBcj69hdTFDsZAdA_PgZ6136Bsvrnn8jwlmQ/edit?usp=sharing) and fill in all of the sections. Remember you will be putting in your User Interviews, User Journeys, Wireframes, and ERDs in this document as well.
+Copy the [PRD Template](https://docs.google.com/document/d/10u8lI0VhBcj69hdTFDsZAdA_PgZ6136Bsvrnn8jwlmQ/edit?usp=sharing) and fill in all of the sections. Remember you will be putting in your User Journeys and Wireframes in this document as well.
+
+**Evaluation:** You will be evaluated on this assignment using the [Writing Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit?usp=sharing). To pass the assignment, you must...
+
+- Fill out each section of the PRD
+- Get an average score of 2 on the above rubric
 
 
 ### Senior Leadership 
 
 **DUE DATE: Thursday, October 10**
 
-Before the end of the term, you must fulfill a Senior Leadership role in _one_ of the following:
+Before the end of the term, you must fulfill a Senior Leadership role in _both_ of the following:
 
-- PM your industry collaboration project
 - Pair Program with a Junior student (at least once)
 - Code Review with a Junior student (at least once)
 
-More information can be found in [these slides](https://docs.google.com/presentation/d/1QBtEhCqe27kROEG8s7HTyBmcsemXWqzqif0MmSSzoww/edit?usp=sharing) in how to get involved if you're not going to be a PM for your project.
+More information on how to do this coming soon!
 
 ### MVP
 
@@ -106,21 +110,28 @@ More information can be found in [these slides](https://docs.google.com/presenta
 
 By the end of this course, you should have an MVP of your product that you will present both in class and to your industry partner.
 
-## Collaboration Expectations
+**Evaluation:** You will be evaluated on this assignment using the [Portfolio Project Rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=sharing). To pass the assignment, you must...
 
-- **[Student Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.yri3le8rfq5y)** - see this [flyer](https://docs.google.com/document/d/1VJX5-UYzjTA42pAw1rP4VXVYnMnGOj7BGd2A4ufGeKY/edit) to gauge interest from prospective industry collaborators.
-- **[Participating Organization Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.mg9scq4lebzc)**
-- **[Expectations for Instructors](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.8ve0deyw0r2j)**
+- Get an average score of 2 on the above rubric to pass the assignment.
+- Have your project be live/launched (or on test-flight or demoable if partner doesn’t want it public) 
+- Get an average score of 2 on your Peer Evaluation
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
 - Pass all assignments according to their associated rubric
+- Get an average score of 2 on your Peer Evaluation
 - Present an MVP of your product
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
+
+## Collaboration Expectations
+
+- **[Student Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.yri3le8rfq5y)** - see this [flyer](https://docs.google.com/document/d/1VJX5-UYzjTA42pAw1rP4VXVYnMnGOj7BGd2A4ufGeKY/edit) to gauge interest from prospective industry collaborators.
+- **[Participating Organization Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.mg9scq4lebzc)**
+- **[Expectations for Instructors](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.8ve0deyw0r2j)**
 
 ## Resources
 
