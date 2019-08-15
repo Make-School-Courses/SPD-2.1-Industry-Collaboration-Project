@@ -35,7 +35,7 @@ By the end of the course, you will be able to ...
 |  2 |  Thu, Aug 29            | [Client Relationships] |
 |  3 |  Tue, Sept 3            | Meet Industry Partner! |
 |  4 |  Thu, Sept 5            | [Sprint Planning + Assignment Feedback] |
-|  5 |  Tue, Sept 10           | [Managing Dependencies] |
+|  5 |  Tue, Sept 10           | [Managing Timelines and Dependencies] |
 |  6 |  Thu, Sept 12           | [Sprint Retro/Planning + PRD Feedback] |
 |  7 |  Tue, Sept 17           | [Decision Making]|
 |  8 |  Thu, Sept 19          | [Sprint Retro/Planning + Role Breakouts 1] |
@@ -49,7 +49,7 @@ By the end of the course, you will be able to ...
 [Ideation and Team Formation]: https://drive.google.com/open?id=1H-fKByXUABNdUsSGLkNgQ6P-cefrmCbhJcHluQqlCIE
 [Client Relationships]: https://docs.google.com/presentation/d/1WkQG_0ZeZ6dJt6WErWB4DQZ7g1ScE8rnqmEezvtH77c/edit?usp=sharing
 [Sprint Planning + Assignment Feedback]: https://drive.google.com/open?id=1UyHyKTosbKJVA_U3zpLGa_R_V9zpj2S3XH3E9e07nxQ
-[Managing Dependencies]: https://drive.google.com/open?id=1bS8O6m7YhBSBE0Mtcq7mJXd-CEej6Ujrr-HIzaZIiF4
+[Managing Timelines and Dependencies]: https://drive.google.com/open?id=1bS8O6m7YhBSBE0Mtcq7mJXd-CEej6Ujrr-HIzaZIiF4
 [Sprint Retro/Planning + PRD Feedback]: https://drive.google.com/open?id=1Iaj95VljHC1jzfOajBNGIa45kau-P2MRSB_BH8kfxl0
 [Decision Making]: https://docs.google.com/presentation/d/1xWRONfK6jdQk1bpadVYYIdbUoAQ37HWHPhGLCgjZUGE/edit?usp=sharing
 [Sprint Retro/Planning + Role Breakouts 1]: https://drive.google.com/open?id=1vvIJBns8IM04rwi1FtuGFgVzGvKhHvRSGhMUq08B7Og
@@ -68,7 +68,7 @@ In place of a final exam, there will be **3 quizzes** held throughout the course
 
 - **Quiz 1: Managing Timelines & Dependencies - Thursday, Sept 19**
 - **Quiz 2: Decision Making - Tuesday, Oct 1**
-- **Quiz 3: Delegating & Follow Through - Tuesday, Oct 8**
+- **Quiz 3: Delegating and Follow Through - Tuesday, Oct 8**
 
 
 ### User Interviews, User Journeys, Wireframes, ERDs
