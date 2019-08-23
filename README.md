@@ -93,17 +93,6 @@ Copy the [PRD Template](https://docs.google.com/document/d/10u8lI0VhBcj69hdTFDsZ
 - Get an average score of 2 on the above rubric
 
 
-### Senior Leadership 
-
-**DUE DATE: Thursday, October 10**
-
-Before the end of the term, you must fulfill a Senior Leadership role in _both_ of the following:
-
-- Pair Program with a Junior student (at least once)
-- Code Review with a Junior student (at least once)
-
-More information on how to do this coming soon!
-
 ### MVP
 
 **DUE DATE: Thursday, October 10**
@@ -121,8 +110,11 @@ By the end of this course, you should have an MVP of your product that you will 
 To pass this course you must meet the following requirements:
 
 - Pass all assignments according to their associated rubric
-- Get an average score of 2 on your Peer Evaluation
+- Get an average score above a 2 on your Peer Evaluation
 - Present an MVP of your product
+  - if MVP is not live, can still pass if code exists for features that would earn a pass if live, and teammate is at or under limit of excused absenses
+  - product does not have to be live if partner specifically requests it not to be live (must show proof)
+- Pass at least 2 of three quizzes
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
