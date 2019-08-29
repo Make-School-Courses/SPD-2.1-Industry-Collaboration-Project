@@ -41,7 +41,7 @@ By the end of the course, you will be able to ...
 |  8 |  Thu, Sept 19          | [Sprint Retro/Planning + Role Breakouts 1] |
 |  9 |  Tue, Sept 24           | [Delegation and Follow Through] |
 |  10 | Thu, Sept 26            | [Sprint Retro/Planning + Conflict Jigsaw] |
-|  11 | Tue, Oct 1              | [Role Breakouts 2 + MVP Practice Pitch] |
+|  11 | Tue, Oct 1              | [Going LIVE with Dani] |
 |  12 | Thu, Oct 3             |  [Sprint Retro/Planning + Work Time]|
 |  13 | Tue, Oct 8             | Project Work Time |
 |  14 | Thu, Oct 10             | MVP Presentations |
@@ -55,7 +55,6 @@ By the end of the course, you will be able to ...
 [Sprint Retro/Planning + Role Breakouts 1]: https://drive.google.com/open?id=1vvIJBns8IM04rwi1FtuGFgVzGvKhHvRSGhMUq08B7Og
 [Delegation and Follow Through]: https://docs.google.com/presentation/d/1PuHmtxsSTUmy1tYqYqWxz5AdmbupF8v6xAsa94XYHoc/edit?usp=sharing
 [Sprint Retro/Planning + Conflict Jigsaw]: https://drive.google.com/open?id=1zVp34ZU8Umw_9-wPJWG_IvaCFwxEFKwlutJPDYttGZA
-[Role Breakouts 2 + MVP Practice Pitch]: https://drive.google.com/open?id=1CC3kKwev9Yta8M5rEoawJ13MGI-0q_OPj7S2diY6pA0
 [Sprint Retro/Planning + Work Time]: https://drive.google.com/open?id=1bik37PNQP5jRRoTzEvGO7X5-EB_NFaZf1jOa92vvAJ4
 
 
