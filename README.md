@@ -84,7 +84,7 @@ For your project, you will need to conduct user interviews, craft user journeys,
 
 For your project, you will construct a PRD, a document frequently used in industry to convey the purpose and specifications of a product. You will be sharing this artifact with your industry partner.
 
-Copy the [PRD Template](https://docs.google.com/document/d/10u8lI0VhBcj69hdTFDsZAdA_PgZ6136Bsvrnn8jwlmQ/edit?usp=sharing) and fill in all of the sections. Remember you will be putting in your User Journeys and Wireframes in this document as well. See [example PRD here](https://docs.google.com/document/d/19Pr8BRXLpHj1DcXMLLQ1tzAhG6YvqN-qdNlvLn4x6cE/edit#heading=h.blb9dxwl1maj)
+Copy the [PRD Template](https://docs.google.com/document/d/10u8lI0VhBcj69hdTFDsZAdA_PgZ6136Bsvrnn8jwlmQ/edit?usp=sharing) and fill in all of the sections. Remember you will be putting in your User Journeys and Wireframes in this document as well. See [example PRD here](https://docs.google.com/document/d/19Pr8BRXLpHj1DcXMLLQ1tzAhG6YvqN-qdNlvLn4x6cE/edit#heading=h.blb9dxwl1maj).
 
 **Evaluation:** You will be evaluated on this assignment using the [Writing Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit?usp=sharing). To pass the assignment, you must...
 
