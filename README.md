@@ -43,7 +43,7 @@ By the end of the course, you will be able to ...
 |  10 | Thu, Sept 26            | [Sprint Retro/Planning + Conflict Jigsaw] |
 |  11 | Tue, Oct 1              | [Going LIVE with Dani] |
 |  12 | Thu, Oct 3             |  [Sprint Retro/Planning + Work Time]|
-|  13 | Tue, Oct 8             | Project Work Time |
+|  13 | Tue, Oct 8             | Quiz & Project Work Time |
 |  14 | Thu, Oct 10             | MVP Presentations |
 
 [Ideation and Team Formation]: https://drive.google.com/open?id=1H-fKByXUABNdUsSGLkNgQ6P-cefrmCbhJcHluQqlCIE
