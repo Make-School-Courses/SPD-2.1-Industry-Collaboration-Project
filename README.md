@@ -104,6 +104,18 @@ By the end of this course, you should have an MVP of your product that you will 
 - Have your project be live/launched (or on test-flight or demoable if partner doesn’t want it public) 
 - Get an average score of 2 on your Peer Evaluation
 
+### Presentation of MVP
+
+**Presentation format for SPD 2.1 Final, Thurs Oct 10th:**
+
+10 minute MVP presentation to Dan in class:
+1. Dan user tests features on app (share link)
+2. Each teammate shows their code and describes contributions
+3. PM explains future feature roadmap
+4. Share who will work on the intensive project during Intensive (if anybody)
+
+**Evaluation:** team must present to pass
+
 ## Evaluation
 
 To pass this course you must meet the following requirements:
