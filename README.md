@@ -22,7 +22,7 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Tuesday, August 27, 2019  – Thursday, October 10, 2019 (7 weeks)
+**Course Dates:** Tuesday, August 27, 2020  – Thursday, October 10, 2020 (7 weeks)
 
 **Class Times:** Tuesday and Thursday at 09:30 – 11:00am (14 class sessions)  
 
