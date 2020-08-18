@@ -65,12 +65,12 @@ By the end of the course, you will be able to ...
 
 In place of a final exam, there will be **3 quizzes** held throughout the course of this term. They will be done in class on the below dates:
 
-- **Quiz 1: Managing Timelines & Dependencies - Thursday, Sept 19**
-- **Quiz 2: Decision Making - Tuesday, Oct 1**
-- **Quiz 3: Delegating and Follow Through - Tuesday, Oct 8**
+- **Quiz 1: Managing Timelines & Dependencies - Thursday, Sept 1**
+- **Quiz 2: Decision Making - Tuesday, Sept 24**
+- **Quiz 3: Delegating and Follow Through - Tuesday, Oct 1**
 
 
-### User Interviews, User Journeys, Wireframes, ERDs
+### User Interviews, User Journeys, Wireframes, Entity Relation Diagrams (ERDs)
 
 **DUE DATE: Thursday, September 5**
 
@@ -80,7 +80,7 @@ For your project, you will need to conduct user interviews, craft user journeys,
 
 ### Product Requirements Document (PRD)
 
-**DUE DATE: Thursday, September 12**
+**DUE DATE: Thursday, September 8**
 
 For your project, you will construct a PRD, a document frequently used in industry to convey the purpose and specifications of a product. You will be sharing this artifact with your industry partner.
 
@@ -94,7 +94,7 @@ Copy the [PRD Template](https://docs.google.com/document/d/10u8lI0VhBcj69hdTFDsZ
 
 ### MVP
 
-**DUE DATE: Thursday, October 10**
+**DUE DATE: Thursday, October 6**
 
 By the end of this course, you should have an MVP of your product that you will present both in class and to your industry partner.
 
@@ -106,7 +106,7 @@ By the end of this course, you should have an MVP of your product that you will 
 
 ### Presentation of MVP
 
-**Presentation format for SPD 2.1 Final, Thurs Oct 10th:**
+**Presentation format for SPD 2.1 Final, Thurs Oct 6:**
 
 10 minute MVP presentation to Dan in class:
 1. Dan user tests features on app (share link)
