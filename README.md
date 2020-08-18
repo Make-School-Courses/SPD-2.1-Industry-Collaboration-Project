@@ -22,7 +22,7 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Tuesday, August 27, 2020  – Thursday, October 10, 2020 (7 weeks)
+**Course Dates:** Tuesday, August 20, 2020  – Thursday, October 3, 2020 (7 weeks)
 
 **Class Times:** Tuesday and Thursday at 09:30 – 11:00am (14 class sessions)  
 
@@ -31,20 +31,20 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, Aug 27             | [Ideation and Team Formation] |
-|  2 |  Thu, Aug 29            | [Client Relationships] |
-|  3 |  Tue, Sept 3            | Meet Industry Partner! |
-|  4 |  Thu, Sept 5            | [Sprint Planning + Assignment Feedback] |
-|  5 |  Tue, Sept 10           | [Managing Timelines and Dependencies] |
-|  6 |  Thu, Sept 12           | [Sprint Retro/Planning + PRD Feedback] |
-|  7 |  Tue, Sept 17           | [Decision Making]|
-|  8 |  Thu, Sept 19          | [Sprint Retro/Planning + Role Breakouts 1] |
-|  9 |  Tue, Sept 24           | [Delegation and Follow Through] |
-|  10 | Thu, Sept 26            | [Sprint Retro/Planning + Conflict Jigsaw] |
-|  11 | Tue, Oct 1              | [Going LIVE with Dani] |
-|  12 | Thu, Oct 3             |  [Sprint Retro/Planning + Work Time]|
-|  13 | Tue, Oct 8             | Quiz & Project Work Time |
-|  14 | Thu, Oct 10             | MVP Presentations |
+|  1 |  Tue, Aug 20              | [Ideation and Team Formation] |
+|  2 |  Thu, Aug 25              | [Client Relationships] |
+|  3 |  Tue, Aug 27              | Meet Industry Partner! |
+|  4 |  Thu, Sept 1              | [Sprint Planning + Assignment Feedback] |
+|  5 |  Tue, Sept 3              | [Managing Timelines and Dependencies] |
+|  6 |  Thu, Sept 8              | [Sprint Retro/Planning + PRD Feedback] |
+|  7 |  Tue, Sept 10             | [Decision Making]|
+|  8 |  Thu, Sept 15             | [Sprint Retro/Planning + Role Breakouts 1] |
+|  9 |  Tue, Sept 17             | [Delegation and Follow Through] |
+|  10 | Thu, Sept 22             | [Sprint Retro/Planning + Conflict Jigsaw] |
+|  11 | Tue, Sept 24             | [Going LIVE with Dani] |
+|  12 | Thu, Sept 29             |  [Sprint Retro/Planning + Work Time]|
+|  13 | Tue, Oct 1               | Quiz & Project Work Time |
+|  14 | Thu, Oct 6               | MVP Presentations |
 
 [Ideation and Team Formation]: https://drive.google.com/open?id=1H-fKByXUABNdUsSGLkNgQ6P-cefrmCbhJcHluQqlCIE
 [Client Relationships]: https://docs.google.com/presentation/d/1WkQG_0ZeZ6dJt6WErWB4DQZ7g1ScE8rnqmEezvtH77c/edit?usp=sharing
