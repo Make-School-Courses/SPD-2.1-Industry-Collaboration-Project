@@ -65,7 +65,7 @@ By the end of the course, you will be able to ...
 
 In place of a final exam, there will be **3 quizzes** held throughout the course of this term. They will be done in class on the below dates:
 
-- **Quiz 1: Managing Timelines & Dependencies - Thursday, Sept 1**
+- **Quiz 1: Managing Timelines & Dependencies - Thursday, Sept 10**
 - **Quiz 2: Decision Making - Tuesday, Sept 24**
 - **Quiz 3: Delegating and Follow Through - Tuesday, Oct 1**
 
