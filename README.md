@@ -61,6 +61,12 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
+### Weekly Progress Reflections
+
+### Team Kanban Board
+
+### Team Sprint Agenda
+
 ### Quizzes
 
 In place of a final exam, there will be **3 quizzes** held throughout the course of this term. They will be done in class on the below dates:
