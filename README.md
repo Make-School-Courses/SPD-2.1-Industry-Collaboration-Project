@@ -72,7 +72,7 @@ In place of a final exam, there will be **3 quizzes** held throughout the course
 
 ### User Interviews, User Journeys, Wireframes, Entity Relation Diagrams (ERDs)
 
-**DUE DATE: Thursday, September 5**
+**DUE DATE: Thursday, September 3**
 
 For your project, you will need to conduct user interviews, craft user journeys, build out wireframes, and construct ERDs to provide an origin story and starting point for your project. You will also be adding some of these to your product requirements document (PRD), which you will be sharing with your industry partner.
 
@@ -80,7 +80,7 @@ For your project, you will need to conduct user interviews, craft user journeys,
 
 ### Product Requirements Document (PRD)
 
-**DUE DATE: Thursday, September 8**
+**DUE DATE: Thursday, September 10**
 
 For your project, you will construct a PRD, a document frequently used in industry to convey the purpose and specifications of a product. You will be sharing this artifact with your industry partner.
 
