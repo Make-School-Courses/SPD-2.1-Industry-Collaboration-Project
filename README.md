@@ -61,18 +61,28 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
+### Weekly Progress Reflections
+
+### Team Kanban Board
+
+### Team Sprint Agenda
+
 ### Quizzes
 
 In place of a final exam, there will be **3 quizzes** held throughout the course of this term. They will be done in class on the below dates:
 
-- **Quiz 1: Managing Timelines & Dependencies - Tue, Sept 1**
-- **Quiz 2: Decision Making - Thu, Sept 24**
-- **Quiz 3: Delegating and Follow Through - Thu, Oct 1**
+
+- **Quiz 1: Managing Timelines & Dependencies - Thursday, Sept 10**
+- **Quiz 2: Decision Making - Tuesday, Sept 24**
+- **Quiz 3: Delegating and Follow Through - Tuesday, Oct 1**
+
 
 
 ### User Interviews, User Journeys, Wireframes, Entity Relation Diagrams (ERDs)
 
-**DUE DATE: Sat, September 5**
+
+**DUE DATE: Thursday, September 3**
+
 
 For your project, you will need to conduct user interviews, craft user journeys, build out wireframes, and construct ERDs to provide an origin story and starting point for your project. You will also be adding some of these to your product requirements document (PRD), which you will be sharing with your industry partner.
 
@@ -80,7 +90,8 @@ For your project, you will need to conduct user interviews, craft user journeys,
 
 ### Product Requirements Document (PRD)
 
-**DUE DATE: Tue, September 8**
+
+**DUE DATE: Thursday, September 10**
 
 For your project, you will construct a PRD, a document frequently used in industry to convey the purpose and specifications of a product. You will be sharing this artifact with your industry partner.
 
