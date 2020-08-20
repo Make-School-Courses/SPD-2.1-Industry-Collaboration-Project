@@ -31,20 +31,20 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, Aug 20              | [Ideation and Team Formation] |
-|  2 |  Thu, Aug 25              | [Client Relationships] |
-|  3 |  Tue, Aug 27              | Meet Industry Partner! |
-|  4 |  Thu, Sept 1              | [Sprint Planning + Assignment Feedback] |
-|  5 |  Tue, Sept 3              | [Managing Timelines and Dependencies] |
-|  6 |  Thu, Sept 8              | [Sprint Retro/Planning + PRD Feedback] |
-|  7 |  Tue, Sept 10             | [Decision Making]|
-|  8 |  Thu, Sept 15             | [Sprint Retro/Planning + Role Breakouts 1] |
-|  9 |  Tue, Sept 17             | [Delegation and Follow Through] |
-|  10 | Thu, Sept 22             | [Sprint Retro/Planning + Conflict Jigsaw] |
-|  11 | Tue, Sept 24             | [Going LIVE with Dani] |
-|  12 | Thu, Sept 29             |  [Sprint Retro/Planning + Work Time]|
-|  13 | Tue, Oct 1               | Quiz & Project Work Time |
-|  14 | Thu, Oct 6               | MVP Presentations |
+|  1 |  Thu, Aug 20              | [Ideation and Team Formation] |
+|  2 |  Tue, Aug 25              | [Client Relationships] |
+|  3 |  Thu, Aug 27              | Meet Industry Partner! |
+|  4 |  Tue, Sept 1              | [Sprint Planning + Assignment Feedback] |
+|  5 |  Thu, Sept 3              | [Managing Timelines and Dependencies] |
+|  6 |  Tue, Sept 8              | [Sprint Retro/Planning + PRD Feedback] |
+|  7 |  Thu, Sept 10             | [Decision Making]|
+|  8 |  Tue, Sept 15             | [Sprint Retro/Planning + Role Breakouts 1] |
+|  9 |  Thu, Sept 17             | [Delegation and Follow Through] |
+|  10 | Tue, Sept 22             | [Sprint Retro/Planning + Conflict Jigsaw] |
+|  11 | Thu, Sept 24             | [Going LIVE with Dani] |
+|  12 | Tue, Sept 29             |  [Sprint Retro/Planning + Work Time]|
+|  13 | Thu, Oct 1               | Quiz & Project Work Time |
+|  14 | Tue, Oct 6               | MVP Presentations |
 
 [Ideation and Team Formation]: https://drive.google.com/open?id=1H-fKByXUABNdUsSGLkNgQ6P-cefrmCbhJcHluQqlCIE
 [Client Relationships]: https://docs.google.com/presentation/d/1WkQG_0ZeZ6dJt6WErWB4DQZ7g1ScE8rnqmEezvtH77c/edit?usp=sharing
@@ -65,14 +65,14 @@ By the end of the course, you will be able to ...
 
 In place of a final exam, there will be **3 quizzes** held throughout the course of this term. They will be done in class on the below dates:
 
-- **Quiz 1: Managing Timelines & Dependencies - Thursday, Sept 1**
-- **Quiz 2: Decision Making - Tuesday, Sept 24**
-- **Quiz 3: Delegating and Follow Through - Tuesday, Oct 1**
+- **Quiz 1: Managing Timelines & Dependencies - Tue, Sept 1**
+- **Quiz 2: Decision Making - Thu, Sept 24**
+- **Quiz 3: Delegating and Follow Through - Thu, Oct 1**
 
 
 ### User Interviews, User Journeys, Wireframes, Entity Relation Diagrams (ERDs)
 
-**DUE DATE: Thursday, September 5**
+**DUE DATE: Sat, September 5**
 
 For your project, you will need to conduct user interviews, craft user journeys, build out wireframes, and construct ERDs to provide an origin story and starting point for your project. You will also be adding some of these to your product requirements document (PRD), which you will be sharing with your industry partner.
 
@@ -80,7 +80,7 @@ For your project, you will need to conduct user interviews, craft user journeys,
 
 ### Product Requirements Document (PRD)
 
-**DUE DATE: Thursday, September 8**
+**DUE DATE: Tue, September 8**
 
 For your project, you will construct a PRD, a document frequently used in industry to convey the purpose and specifications of a product. You will be sharing this artifact with your industry partner.
 
@@ -94,7 +94,7 @@ Copy the [PRD Template](https://docs.google.com/document/d/10u8lI0VhBcj69hdTFDsZ
 
 ### MVP
 
-**DUE DATE: Thursday, October 6**
+**DUE DATE: Tue, October 6**
 
 By the end of this course, you should have an MVP of your product that you will present both in class and to your industry partner.
 
@@ -106,7 +106,7 @@ By the end of this course, you should have an MVP of your product that you will 
 
 ### Presentation of MVP
 
-**Presentation format for SPD 2.1 Final, Thurs Oct 6:**
+**Presentation format for SPD 2.1 Final, Tue Oct 6:**
 
 10 minute MVP presentation to Dan in class:
 1. Dan user tests features on app (share link)
