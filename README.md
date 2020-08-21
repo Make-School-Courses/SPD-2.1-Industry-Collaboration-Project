@@ -28,7 +28,31 @@ By the end of the course, you will be able to ...
 
 **Lab Time:** Wednesday at 09:30 – 11:00am
 
+<!-- tabs:start -->
+<!-- omit in toc -->
+### **Section A: Dan - HYBRID**
 
+Hybrid sections are a mixture of online and in person components.  In person sessions include labs and group work as noted on your schedule.  These sections will run according to the Hybrid Delivery Policy: [make.sc/hybrid-delivery-policy](make.sc/hybrid-delivery-policy)
+
+| Class |          Date          |                 Topics                  |  In-Person Labs (Standups) |
+|:-----:|:----------------------:|:---------------------------------------:|:--------------------|
+|  1 |  Thu, Aug 20              | [Ideation and Team Formation] | |
+|  2 |  Tue, Aug 25              | [Client Relationships] | |
+|  3 |  Thu, Aug 27              | Meet Industry Partner! | Standup @ 11:30am |
+|  4 |  Tue, Sept 1              | [Sprint Planning + Assignment Feedback] | |
+|  5 |  Thu, Sept 3              | [Managing Timelines and Dependencies] | Standup @ 11:30am |
+|  6 |  Tue, Sept 8              | [Sprint Retro/Planning + PRD Feedback] | |
+|  7 |  Thu, Sept 10             | [Decision Making]| Standup @ 11:30am |
+|  8 |  Tue, Sept 15             | [Sprint Retro/Planning + Role Breakouts 1] | |
+|  9 |  Thu, Sept 17             | [Delegation and Follow Through] | Standup @ 11:30am |
+|  10 | Tue, Sept 22             | [Sprint Retro/Planning + Conflict Jigsaw] | |
+|  11 | Thu, Sept 24             | [Going LIVE with Dani] | Standup @ 11:30am |
+|  12 | Tue, Sept 29             |  [Sprint Retro/Planning + Work Time]| |
+|  13 | Thu, Oct 1               | Quiz & Project Work Time |  Standup @ 11:30am |
+|  14 | Tue, Oct 6               | MVP Presentations | |
+
+<!-- omit in toc -->
+### **Section B: Kami + Dan **
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Thu, Aug 20              | [Ideation and Team Formation] |
@@ -45,6 +69,8 @@ By the end of the course, you will be able to ...
 |  12 | Tue, Sept 29             |  [Sprint Retro/Planning + Work Time]|
 |  13 | Thu, Oct 1               | Quiz & Project Work Time |
 |  14 | Tue, Oct 6               | MVP Presentations |
+
+<!-- tabs:end -->
 
 [Ideation and Team Formation]: https://drive.google.com/open?id=1H-fKByXUABNdUsSGLkNgQ6P-cefrmCbhJcHluQqlCIE
 [Client Relationships]: https://docs.google.com/presentation/d/1WkQG_0ZeZ6dJt6WErWB4DQZ7g1ScE8rnqmEezvtH77c/edit?usp=sharing
