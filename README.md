@@ -173,3 +173,13 @@ To pass this course you must meet the following requirements:
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
+
+
+## Class Assignments
+
+
+We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+
+As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
+
+Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
