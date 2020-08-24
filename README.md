@@ -105,6 +105,8 @@ As soon as grades are posted, you will be notified immediately so that you can l
 
 Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
+Although all assignments for this course live in gradescope but I repeat the main ones here:
+
 ### User Interviews, User Journeys, Wireframes, Entity Relation Diagrams (ERDs)
 
 
