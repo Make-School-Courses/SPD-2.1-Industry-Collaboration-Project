@@ -70,8 +70,8 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 |  7 |  Thu, Sept 10             | [Decision Making]|
 |  8 |  Tue, Sept 15             | [Sprint Retro/Planning + Role Breakouts 1] |
 |  9 |  Thu, Sept 17             | [Delegation and Follow Through] |
-|  10 | Tue, Sept 22             | [Sprint Retro/Planning + Conflict Jigsaw] |
-|  11 | Thu, Sept 24             | [Going LIVE with Dani] |
+|  10 | Tue, Sept 22             | [Sprint Retro/Planning + Behavioral Interview Practice] |
+|  11 | Thu, Sept 24             | [Going LIVE] |
 |  12 | Tue, Sept 29             |  [Sprint Retro/Planning + Work Time]|
 |  13 | Thu, Oct 1               | Quiz & Project Work Time |
 |  14 | Tue, Oct 6               | MVP Presentations |
@@ -88,6 +88,8 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 [Delegation and Follow Through]: https://docs.google.com/presentation/d/1PuHmtxsSTUmy1tYqYqWxz5AdmbupF8v6xAsa94XYHoc/edit?usp=sharing
 [Sprint Retro/Planning + Conflict Jigsaw]: https://drive.google.com/open?id=1zVp34ZU8Umw_9-wPJWG_IvaCFwxEFKwlutJPDYttGZA
 [Sprint Retro/Planning + Work Time]: https://drive.google.com/open?id=1bik37PNQP5jRRoTzEvGO7X5-EB_NFaZf1jOa92vvAJ4
+[Going LIVE]: https://make.sc/shippingsesh 
+[Sprint Retro/Planning + Behavioral Interview Practice]: https://drive.google.com/file/d/1Xq7BKkKJpIjtXZsGFlHPqtJNQdtnWxN4/view?usp=sharing
 
 
 
