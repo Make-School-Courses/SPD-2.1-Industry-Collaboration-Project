@@ -101,9 +101,9 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 In place of a final exam, there will be **3 quizzes** held throughout the course of this term. They will be done in class on the below dates:
 
 
-- **Quiz 1: Managing Timelines & Dependencies - Thursday, Sept 10**
-- **Quiz 2: Decision Making - Tuesday, Sept 24**
-- **Quiz 3: Delegating and Follow Through - Tuesday, Oct 1**
+- **Quiz 1: Managing Timelines & Dependencies - Thursday, Sept 10 (CANCELED)**
+- **Quiz 2: Decision Making - Tuesday, Sept 24 (CANCELED)**
+- **Quiz 3: Delegating and Follow Through - Tuesday, Oct 1 (Now assignment on Gradescope)**
 
 ## Class Assignments
 
