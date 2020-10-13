@@ -1,4 +1,4 @@
-# SPD 2.1: Industry Collaboration Project 1
+# SPD 2.1: Industry Collaboration Project: Client Work
 
 ## Course Description
 
