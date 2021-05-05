@@ -64,8 +64,8 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 |  1 |  Thu, Aug 20              | [Ideation and Team Formation] |
 |  2 |  Tue, Aug 25              | [Client Relationships] |
 |  3 |  Thu, Aug 27              | Meet Industry Partner! |
-|  4 |  Tue, Sept 1              | [Sprint Planning + Assignment Feedback] |
-|  5 |  Thu, Sept 3              | [Managing Timelines and Dependencies] |
+|  4 |  Tue, Sept 1              | [Managing Timelines and Dependencies] |
+|  5 |  Thu, Sept 3              | [Sprint Planning + Assignment Feedback] |
 |  6 |  Tue, Sept 8              | [Sprint Retro/Planning + PRD Feedback] |
 |  7 |  Thu, Sept 10             | [Decision Making]|
 |  8 |  Tue, Sept 15             | [Sprint Retro/Planning + Role Breakouts 1] |
