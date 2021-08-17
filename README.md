@@ -78,18 +78,18 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 
 <!-- tabs:end -->
 
-[Ideation and Team Formation]: https://drive.google.com/open?id=1H-fKByXUABNdUsSGLkNgQ6P-cefrmCbhJcHluQqlCIE
-[Client Relationships]: https://docs.google.com/presentation/d/1WkQG_0ZeZ6dJt6WErWB4DQZ7g1ScE8rnqmEezvtH77c/edit?usp=sharing
-[Sprint Planning + Assignment Feedback]: https://drive.google.com/open?id=1UyHyKTosbKJVA_U3zpLGa_R_V9zpj2S3XH3E9e07nxQ
-[Managing Timelines and Dependencies]: https://drive.google.com/open?id=1bS8O6m7YhBSBE0Mtcq7mJXd-CEej6Ujrr-HIzaZIiF4
-[Sprint Retro/Planning + PRD Feedback]: https://drive.google.com/open?id=1Iaj95VljHC1jzfOajBNGIa45kau-P2MRSB_BH8kfxl0
+[Ideation and Team Formation]: https://docs.google.com/presentation/d/1LsVpdljf7wE-ZHjcU8aVr8ZuVxbZxmN-n4hKHLGccII/edit#slide=id.p1
+[Client Relationships]: https://docs.google.com/presentation/u/2/d/1aIK7fGYTA8AByyqfuwPf_wrSeTcPZgrDMDq0sotzKQc/edit?usp=drive_web&ouid=110519350466014153713
+[Sprint Planning + Assignment Feedback]: https://docs.google.com/presentation/u/2/d/1HB9qspMRj1RCp07AQfP1qWjl2nwIs_LZCnbxnfxyEc4/edit?usp=drive_web&ouid=110519350466014153713
+[Managing Timelines and Dependencies]: https://docs.google.com/presentation/d/1cRaWmpF9VkpICDaO4QyyqmT177jLAJxd_1mMwko-QFM/edit#slide=id.p1
+[Sprint Retro/Planning + PRD Feedback]: https://docs.google.com/presentation/d/1UgT32VhHZIrjqDNdsFmKYs8BeFXLDRI13Jc4fe2ICDM/edit#slide=id.p1
 [Decision Making]: https://docs.google.com/presentation/d/1xWRONfK6jdQk1bpadVYYIdbUoAQ37HWHPhGLCgjZUGE/edit?usp=sharing
-[Sprint Retro/Planning + Role Breakouts 1]: https://drive.google.com/open?id=1vvIJBns8IM04rwi1FtuGFgVzGvKhHvRSGhMUq08B7Og
-[Delegation and Follow Through]: https://docs.google.com/presentation/d/1PuHmtxsSTUmy1tYqYqWxz5AdmbupF8v6xAsa94XYHoc/edit?usp=sharing
-[Sprint Retro/Planning + Conflict Jigsaw]: https://drive.google.com/open?id=1zVp34ZU8Umw_9-wPJWG_IvaCFwxEFKwlutJPDYttGZA
-[Sprint Retro/Planning + Work Time]: https://drive.google.com/open?id=1bik37PNQP5jRRoTzEvGO7X5-EB_NFaZf1jOa92vvAJ4
-[Shipping is Superpower]: https://make.sc/shippingsesh 
-[Sprint Retro/Planning + Behavioral Interview Practice]: https://drive.google.com/file/d/1Xq7BKkKJpIjtXZsGFlHPqtJNQdtnWxN4/view?usp=sharing
+[Sprint Retro/Planning + Role Breakouts 1]: https://docs.google.com/presentation/d/1PPlqFfwb40WSEyGpaBUmGgCqj8TtBDuYd_7OtdooIxM/edit#slide=id.p1
+[Delegation and Follow Through]: https://docs.google.com/presentation/d/1ui3aElXtUIZY4AZmR5rBUZxm-QfbKNxLMABHdhH_nMc/edit#slide=id.p1
+[Sprint Retro/Planning + Conflict Jigsaw]: https://docs.google.com/presentation/d/1fpZ0hYrWg9KNPCq0ZzBS2zWhpTqwrboin_k7WAYjIkY/edit#slide=id.p1
+[Sprint Retro/Planning + Work Time]: https://docs.google.com/presentation/d/1Gs0S9QOqp5guN5iclBJPufEyyhYW8FGnSXnO9sJS90U/edit#slide=id.p1
+[Shipping is Superpower]: https://docs.google.com/presentation/d/1ODQ_jM1xr2l_8OAZAYGHm9SW0QwcgfJEqJ3405_5Wqw/edit?copiedFromTrash 
+[Sprint Retro/Planning + Behavioral Interview Practice]: https://docs.google.com/presentation/d/1y3pTDlXk7W2bMNfSyHNnKaR1xnZ5UtaC5M4kzJMKGDU/edit#slide=id.p1
 [Industry Collab Resume Tips]: https://docs.google.com/presentation/d/1xGRk9KF46ooy9F4SYfe_lfpbDKZzM26FEF06_b4kAA4/edit#slide=id.g9b349a57bd_29_0
 
 
