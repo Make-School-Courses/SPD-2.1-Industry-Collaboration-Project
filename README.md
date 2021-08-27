@@ -6,7 +6,7 @@ Students team up to work on an ambitious project of their choice or with actual 
 
 Students can find an organization to work with on their own or select from a group of preselected organizations. Students also have the option to work on their own original idea.
 
-## Prerequisites:  
+## Prerequisites:
 
 [SPD 1.4](https://github.com/Make-School-Courses/SPD-1.4-Testing-And-Architecture)
 
@@ -28,59 +28,55 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Tuesday, August 20, 2020  – Thursday, October 6, 2020 (7 weeks)
+**Course Dates:** Tuesday, August 24, 2021 – Thursday, October 7, 2021 (7 weeks)
 
-**Class Times:** Tuesday and Thursday at 09:30 – 11:00am (14 class sessions)  
+**Class Times:** Tuesday and Thursday at 09:30 – 11:00am (14 class sessions)
 
 **Lab Time:** Wednesday at 09:30 – 11:00am
 
 <!-- tabs:start -->
 <!-- omit in toc -->
+
 ### **Section A: Dan - HYBRID**
 
-Hybrid sections are a mixture of online and in person components.  In person sessions include labs and group work as noted on your schedule.  These sections will run according to the Hybrid Delivery Policy: [make.sc/hybrid-delivery-policy](make.sc/hybrid-delivery-policy)
+Hybrid sections are a mixture of online and in person components. In person sessions include labs and group work as noted on your schedule. These sections will run according to the Hybrid Delivery Policy: [make.sc/hybrid-delivery-policy](make.sc/hybrid-delivery-policy)
 
-| Class |          Date          |                 Topics                  |  In-Person Labs (Standups) |
-|:-----:|:----------------------:|:---------------------------------------:|:--------------------|
-|  1 |  Tues, Aug 24              | [Ideation and Team Formation] | |
-|  2 |  Thur, Aug 26              | [Client Relationships] | |
-|  3 |  Tu, Aug 31              | Meet Industry Partner! | Standup @ 11:30am |
-|  4 |  Thur, Sept 2              | [Managing Timelines and Dependencies] | |
-|  5 |  Tu, Sept 7              | [Sprint Planning + Assignment Feedback] | Standup @ 11:30am |
-|  6 |  Thur, Sept 9              | [Sprint Retro/Planning + PRD Feedback] | |
-|  7 |  Tu, Sept 14             | [Decision Making]| Standup @ 11:30am |
-|  8 |  Thur, Sept 16             | [Sprint Retro/Planning + Role Breakouts 1] | |
-|  9 |  Tu, Sept 21             | [Delegation and Follow Through] | Standup @ 11:30am |
-|  10 | Thur, Sept 23             | [Sprint Retro/Planning + Behavioral Interview Practice] | |
-|  11 | Tu, Sept 28             | [Shipping Is Superpower] + [Industry Collab Resume Tips] | Standup @ 11:30am |
-|  12 | Thur, Sept 30             |  [Sprint Retro/Planning + Work Time]| |
-|  13 | Tu, Oct 5               | Quiz & Project Work Time |  Standup @ 11:30am |
-|  14 | Thur, Oct 7               | MVP Presentations | |
+| Class |     Date      |                          Topics                          | In-Person Labs (Standups) |
+| :---: | :-----------: | :------------------------------------------------------: | :------------------------ |
+|   1   | Tues, Aug 24  |              [Ideation and Team Formation]               |                           |
+|   2   | Thur, Aug 26  |                  [Client Relationships]                  |                           |
+|   3   |  Tu, Aug 31   |                  Meet Industry Partner!                  | Standup @ 11:30am         |
+|   4   | Thur, Sept 2  |          [Managing Timelines and Dependencies]           |                           |
+|   5   |  Tu, Sept 7   |         [Sprint Planning + Assignment Feedback]          | Standup @ 11:30am         |
+|   6   | Thur, Sept 9  |          [Sprint Retro/Planning + PRD Feedback]          |                           |
+|   7   |  Tu, Sept 14  |                    [Decision Making]                     | Standup @ 11:30am         |
+|   8   | Thur, Sept 16 |        [Sprint Retro/Planning + Role Breakouts 1]        |                           |
+|   9   |  Tu, Sept 21  |             [Delegation and Follow Through]              | Standup @ 11:30am         |
+|  10   | Thur, Sept 23 | [Sprint Retro/Planning + Behavioral Interview Practice]  |                           |
+|  11   |  Tu, Sept 28  | [Shipping Is Superpower] + [Industry Collab Resume Tips] | Standup @ 11:30am         |
+|  12   | Thur, Sept 30 |           [Sprint Retro/Planning + Work Time]            |                           |
+|  13   |   Tu, Oct 5   |                 Quiz & Project Work Time                 | Standup @ 11:30am         |
+|  14   |  Thur, Oct 7  |                    MVP Presentations                     |                           |
 
 <!-- tabs:end -->
 
-[Ideation and Team Formation]: https://docs.google.com/presentation/d/1LsVpdljf7wE-ZHjcU8aVr8ZuVxbZxmN-n4hKHLGccII/edit#slide=id.p1
-[Client Relationships]: https://docs.google.com/presentation/u/2/d/1aIK7fGYTA8AByyqfuwPf_wrSeTcPZgrDMDq0sotzKQc/edit?usp=drive_web&ouid=110519350466014153713
-[Sprint Planning + Assignment Feedback]: https://docs.google.com/presentation/u/2/d/1HB9qspMRj1RCp07AQfP1qWjl2nwIs_LZCnbxnfxyEc4/edit?usp=drive_web&ouid=110519350466014153713
-[Managing Timelines and Dependencies]: https://docs.google.com/presentation/d/1cRaWmpF9VkpICDaO4QyyqmT177jLAJxd_1mMwko-QFM/edit#slide=id.p1
-[Sprint Retro/Planning + PRD Feedback]: https://docs.google.com/presentation/d/1UgT32VhHZIrjqDNdsFmKYs8BeFXLDRI13Jc4fe2ICDM/edit#slide=id.p1
-[Decision Making]: https://docs.google.com/presentation/d/1xWRONfK6jdQk1bpadVYYIdbUoAQ37HWHPhGLCgjZUGE/edit?usp=sharing
-[Sprint Retro/Planning + Role Breakouts 1]: https://docs.google.com/presentation/d/1PPlqFfwb40WSEyGpaBUmGgCqj8TtBDuYd_7OtdooIxM/edit#slide=id.p1
-[Delegation and Follow Through]: https://docs.google.com/presentation/d/1ui3aElXtUIZY4AZmR5rBUZxm-QfbKNxLMABHdhH_nMc/edit#slide=id.p1
-[Sprint Retro/Planning + Conflict Jigsaw]: https://docs.google.com/presentation/d/1fpZ0hYrWg9KNPCq0ZzBS2zWhpTqwrboin_k7WAYjIkY/edit#slide=id.p1
-[Sprint Retro/Planning + Work Time]: https://docs.google.com/presentation/d/1Gs0S9QOqp5guN5iclBJPufEyyhYW8FGnSXnO9sJS90U/edit#slide=id.p1
-[Shipping is Superpower]: https://docs.google.com/presentation/d/1ODQ_jM1xr2l_8OAZAYGHm9SW0QwcgfJEqJ3405_5Wqw/edit?copiedFromTrash 
-[Sprint Retro/Planning + Behavioral Interview Practice]: https://docs.google.com/presentation/d/1y3pTDlXk7W2bMNfSyHNnKaR1xnZ5UtaC5M4kzJMKGDU/edit#slide=id.p1
-[Industry Collab Resume Tips]: https://docs.google.com/presentation/d/1xGRk9KF46ooy9F4SYfe_lfpbDKZzM26FEF06_b4kAA4/edit#slide=id.g9b349a57bd_29_0
-
-
-
-
+[ideation and team formation]: https://docs.google.com/presentation/d/1LsVpdljf7wE-ZHjcU8aVr8ZuVxbZxmN-n4hKHLGccII/edit#slide=id.p1
+[client relationships]: https://docs.google.com/presentation/u/2/d/1aIK7fGYTA8AByyqfuwPf_wrSeTcPZgrDMDq0sotzKQc/edit?usp=drive_web&ouid=110519350466014153713
+[sprint planning + assignment feedback]: https://docs.google.com/presentation/u/2/d/1HB9qspMRj1RCp07AQfP1qWjl2nwIs_LZCnbxnfxyEc4/edit?usp=drive_web&ouid=110519350466014153713
+[managing timelines and dependencies]: https://docs.google.com/presentation/d/1cRaWmpF9VkpICDaO4QyyqmT177jLAJxd_1mMwko-QFM/edit#slide=id.p1
+[sprint retro/planning + prd feedback]: https://docs.google.com/presentation/d/1UgT32VhHZIrjqDNdsFmKYs8BeFXLDRI13Jc4fe2ICDM/edit#slide=id.p1
+[decision making]: https://docs.google.com/presentation/d/1xWRONfK6jdQk1bpadVYYIdbUoAQ37HWHPhGLCgjZUGE/edit?usp=sharing
+[sprint retro/planning + role breakouts 1]: https://docs.google.com/presentation/d/1PPlqFfwb40WSEyGpaBUmGgCqj8TtBDuYd_7OtdooIxM/edit#slide=id.p1
+[delegation and follow through]: https://docs.google.com/presentation/d/1ui3aElXtUIZY4AZmR5rBUZxm-QfbKNxLMABHdhH_nMc/edit#slide=id.p1
+[sprint retro/planning + conflict jigsaw]: https://docs.google.com/presentation/d/1fpZ0hYrWg9KNPCq0ZzBS2zWhpTqwrboin_k7WAYjIkY/edit#slide=id.p1
+[sprint retro/planning + work time]: https://docs.google.com/presentation/d/1Gs0S9QOqp5guN5iclBJPufEyyhYW8FGnSXnO9sJS90U/edit#slide=id.p1
+[shipping is superpower]: https://docs.google.com/presentation/d/1ODQ_jM1xr2l_8OAZAYGHm9SW0QwcgfJEqJ3405_5Wqw/edit?copiedFromTrash
+[sprint retro/planning + behavioral interview practice]: https://docs.google.com/presentation/d/1y3pTDlXk7W2bMNfSyHNnKaR1xnZ5UtaC5M4kzJMKGDU/edit#slide=id.p1
+[industry collab resume tips]: https://docs.google.com/presentation/d/1xGRk9KF46ooy9F4SYfe_lfpbDKZzM26FEF06_b4kAA4/edit#slide=id.g9b349a57bd_29_0
 
 ### Quizzes
 
 In place of a final exam, there will be **3 quizzes** held throughout the course of this term. They will be done in class on the below dates:
-
 
 - **Quiz 1: Managing Timelines & Dependencies - Thursday, Sept 10 (CANCELED)**
 - **Quiz 2: Decision Making - Tuesday, Sept 24 (CANCELED)**
@@ -88,7 +84,7 @@ In place of a final exam, there will be **3 quizzes** held throughout the course
 
 ## Class Assignments
 
-We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. _All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope._
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
@@ -98,9 +94,7 @@ Although all assignments for this course live in gradescope but I repeat the mai
 
 ### User Interviews, User Journeys, Wireframes, Entity Relation Diagrams (ERDs)
 
-
 **DUE DATE: Thursday, September 3**
-
 
 For your project, you will need to conduct user interviews, craft user journeys, build out wireframes, and construct ERDs to provide an origin story and starting point for your project. You will also be adding some of these to your product requirements document (PRD), which you will be sharing with your industry partner.
 
@@ -108,8 +102,7 @@ For your project, you will need to conduct user interviews, craft user journeys,
 
 ### Product Requirements Document (PRD)
 
-
-**DUE DATE: Thursday, September 10**
+**DUE DATE: Tuesday, September 7**
 
 For your project, you will construct a PRD, a document frequently used in industry to convey the purpose and specifications of a product. You will be sharing this artifact with your industry partner.
 
@@ -120,22 +113,21 @@ Copy the [PRD Template](https://docs.google.com/document/d/10u8lI0VhBcj69hdTFDsZ
 - Fill out each section of the PRD
 - Get an average score of 2 on the above rubric
 
-
 ### MVP
 
-**DUE DATE: Tue, October 6**
+**DUE DATE: Thursday, October 7**
 
 By the end of this course, you should have an MVP of your product that you will present both in class and to your industry partner.
 
 **Evaluation:** You will be evaluated on this assignment using the [Portfolio Project Rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=sharing). To pass the assignment, you must...
 
 - Get an average score of 2 on the above rubric to pass the assignment.
-- Have your project be live/launched (or on test-flight or demoable if partner doesn’t want it public) 
+- Have your project be live/launched (or on test-flight or demoable if partner doesn’t want it public)
 - Get an average score of 2 on your Peer Evaluation
 
 ### Presentation of MVP
 
-**Presentation format for SPD 2.1 Final, Tue Oct 6:**
+**Presentation format for SPD 2.1 Final, Thursday Oct 7:**
 
 10 minute MVP presentation to Dan in class:
 1. Dan user tests features on app (share link)
@@ -158,7 +150,6 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
-
 ## Collaboration Expectations
 
 - **[Student Expectations](https://docs.google.com/document/d/1c7eNv4HB_C_8LF7S9xgxrFl0FvoJ3eQ7C336xUjEIFs/edit#heading=h.yri3le8rfq5y)** - see this [flyer](https://docs.google.com/document/d/1VJX5-UYzjTA42pAw1rP4VXVYnMnGOj7BGd2A4ufGeKY/edit) to gauge interest from prospective industry collaborators.
@@ -171,10 +162,9 @@ To pass this course you must meet the following requirements:
 - **Best Practices for User Narratives, Wireframes** - see [best practice articles, videos, and slides](https://docs.google.com/document/d/1uCxdv8N0TltGNS1YLOS8SkD0uLcir0Wg2I9pxS_PL_w/edit#) See [class slides](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit#slide=id.g3e71f5355a_0_26) here.
 - **Entity Relationship Diagram** - see articles of ERD [basics](https://www.youtube.com/watch?v=QpdhBUYk7Kk) and [advanced use](https://www.smartdraw.com/entity-relationship-diagram/)
 - **Trello Kanban Board** - [template Kanban board](https://trello.com/b/AU9r774H/kanban-board-template) that teaches you how to use it! [Kanban Checklist](https://docs.google.com/document/d/1s6lgwqp2KzFKe2CMzWfE9iHWvBKDmm4vE5nG_l18gns/edit) that unveils opportunities and risks in your project.
-- **Sprint Planning Meetings (1 hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.xffidahcubfs)*. Led by the PM. Team checks their roadmap and evaluate teams’ needs to decide what goes into the next sprint, and assign tasks. Teams can use [planning poker](https://en.wikipedia.org/wiki/Planning_poker) to estimate task effort. Everything is logged into Trello. You can copy this [Sprint Planning Trello Board template](https://trello.com/b/AU9r774H/kanban-board-template).
-- **Sprint Retrospective (½ hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)*. Complete the old sprint board by checking all tickets and moving incomplete ones over to the next sprint board. Then estimate the tickets that the PM have moved into the board ahead of meeting. Go over what was completed, what went well not if it didn’t go so well, but double check how everyone felt. Anyone feel overloaded on work? Anything the PM could have done differently? [Sprint Retrospective Trello Board Template](https://trello.com/b/qRzOdBvj/eng-retro-board-template).
+- **Sprint Planning Meetings (1 hour, weekly)** - _[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.xffidahcubfs)_. Led by the PM. Team checks their roadmap and evaluate teams’ needs to decide what goes into the next sprint, and assign tasks. Teams can use [planning poker](https://en.wikipedia.org/wiki/Planning_poker) to estimate task effort. Everything is logged into Trello. You can copy this [Sprint Planning Trello Board template](https://trello.com/b/AU9r774H/kanban-board-template).
+- **Sprint Retrospective (½ hour, weekly)** - _[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)_. Complete the old sprint board by checking all tickets and moving incomplete ones over to the next sprint board. Then estimate the tickets that the PM have moved into the board ahead of meeting. Go over what was completed, what went well not if it didn’t go so well, but double check how everyone felt. Anyone feel overloaded on work? Anything the PM could have done differently? [Sprint Retrospective Trello Board Template](https://trello.com/b/qRzOdBvj/eng-retro-board-template).
 - **Letter of Engagement Templates** - customize [these templates](https://drive.google.com/drive/u/0/folders/1orfy2fxAccRzS1u8AF91bGAgugjT1F3c) to outline the objectives, scope, and timeline for your project/
-
 
 ## Information Resources
 
@@ -182,20 +172,13 @@ Any additional resources you may need (online books, etc.) can be found here. Yo
 
 - [make.sc/library](http://make.sc/library)
 
-
 ## Make School Course Policies
 
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
 - [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct 
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
-
-
-
-
-
-
