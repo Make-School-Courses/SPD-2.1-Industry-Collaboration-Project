@@ -74,13 +74,13 @@ Hybrid sections are a mixture of online and in person components. In person sess
 [sprint retro/planning + behavioral interview practice]: https://docs.google.com/presentation/d/1y3pTDlXk7W2bMNfSyHNnKaR1xnZ5UtaC5M4kzJMKGDU/edit#slide=id.p1
 [industry collab resume tips]: https://docs.google.com/presentation/d/1xGRk9KF46ooy9F4SYfe_lfpbDKZzM26FEF06_b4kAA4/edit#slide=id.g9b349a57bd_29_0
 
-### Quizzes
+### In Class Assignments
 
 In place of a final exam, there will be **3 quizzes** held throughout the course of this term. They will be done in class on the below dates:
 
-- **Quiz 1: Managing Timelines & Dependencies - Thursday, Sept 10 (CANCELED)**
-- **Quiz 2: Decision Making - Tuesday, Sept 24 (CANCELED)**
-- **Quiz 3: Delegating and Follow Through - Tuesday, Oct 1 (Now assignment on Gradescope)**
+- **Quiz 1: Managing Timelines & Dependencies - Thursday, Sept 9**
+- **Quiz 2: Decision Making - Tuesday, Sept 21**
+- **Quiz 3: Delegating and Follow Through - Tuesday, Sept 28**
 
 ## Class Assignments
 
